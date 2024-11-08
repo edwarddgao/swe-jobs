@@ -2,7 +2,7 @@ from jobspy import scrape_jobs
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from datetime import datetime
+from datetime import datetime, timezone
 import os
 import csv
 import time
@@ -62,10 +62,7 @@ def git_push_changes(repo_path: Path, commit_message: str):
 def scrape_and_save():
     # Set up paths
     base_dir = Path(__file__).parent
-    csv_path = base_dir / "data" / "jobs_database.csv"
-    
-    # Create data directory if it doesn't exist
-    os.makedirs(csv_path.parent, exist_ok=True)
+    csv_path = base_dir / "jobs_database.csv"
     
     # Load existing jobs
     existing_jobs = load_existing_jobs(csv_path)
@@ -133,14 +130,116 @@ def scrape_and_save():
     # Save to CSV
     combined_jobs.to_csv(csv_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
     
+    # After saving CSV, calculate statistics
+    stats = {
+        'new_jobs': len(unique_jobs),
+        'total_jobs': len(combined_jobs)
+    }
+    
+    try:
+        # Update README with latest statistics
+        update_readme(base_dir, stats)
+        print("Successfully updated README.md")
+    except Exception as e:
+        print(f"Error updating README: {e}")
+    
     # Generate commit message with statistics
     commit_message = f"Update job database: +{len(unique_jobs)} new jobs, total {len(combined_jobs)}"
     
     # Push changes to GitHub
     git_push_changes(base_dir, commit_message)
     
-    print(f"Added {len(unique_jobs)} new unique entry-level/intern jobs")
-    print(f"Total jobs in database: {len(combined_jobs)}")
+    # Print summary
+    print(f"\nScraping Summary:")
+    print(f"✓ Added {stats['new_jobs']} new unique entry-level/intern jobs")
+    print(f"✓ Total jobs in database: {stats['total_jobs']}")
+    print(f"✓ Updated README.md with latest statistics")
+    
+    # Print any errors that occurred during scraping
+    if len(all_new_jobs) < 2:
+        print("\nWarning: Some job types may not have been scraped successfully")
+
+def update_readme(base_dir: Path, stats: dict):
+    """Update README.md with latest job statistics and information."""
+    readme_path = base_dir / "README.md"
+    csv_path = base_dir / "jobs_database.csv"
+    
+    # Load jobs data for additional statistics
+    df = pd.read_csv(csv_path)
+    
+    # Calculate additional statistics
+    company_counts = df['company'].value_counts().head(10)
+    location_counts = df['location'].value_counts().head(10)
+    recent_jobs = df.nlargest(5, 'scrape_timestamp')
+    
+    # Create default README content if it doesn't exist
+    if not readme_path.exists():
+        default_content = """# Software Engineering Job Board
+
+An automated job board tracking entry-level and internship opportunities in software engineering.
+Updated daily with new positions from major job sites.
+
+## About
+This repository maintains a database of entry-level and internship software engineering positions. 
+The data is automatically collected and updated daily using [JobSpy](https://github.com/ZachWolpe/JobSpy).
+
+## How to Use
+- Browse the `jobs_database.csv` file for all current listings
+- Jobs are automatically deduplicated and verified as entry-level positions
+- Each job includes details like company, location, salary (when available), and full description
+- New jobs are added daily while maintaining historical data
+"""
+        readme_path.write_text(default_content)
+    
+    # Read existing content
+    content = readme_path.read_text()
+    
+    # Create statistics section
+    stats_section = f"""## Latest Statistics
+*Last updated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}*
+
+### Overview
+- 📊 New jobs added: {stats['new_jobs']}
+- 💼 Total jobs in database: {stats['total_jobs']}
+- 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
+
+### Top Hiring Companies
+| Company | Open Positions |
+|---------|---------------|
+{chr(10).join(f"| {company} | {count} |" for company, count in company_counts.items())}
+
+### Top Locations
+| Location | Number of Jobs |
+|----------|---------------|
+{chr(10).join(f"| {loc} | {count} |" for loc, count in location_counts.items())}
+
+### Recently Added Positions
+{chr(10).join(f"- {row['title']} @ {row['company']} ({row['location']})" for _, row in recent_jobs.iterrows())}
+
+### Job Types
+- Full-time positions: {len(df[df['job_type'] == 'fulltime'])}
+- Internships: {len(df[df['job_type'] == 'internship'])}
+
+### Salary Information
+- Positions with salary data: {len(df[df['salary'].notna()])} ({(len(df[df['salary'].notna()]) / len(df) * 100):.1f}%)
+
+## Contributing
+Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
+
+## Disclaimer
+This is an automated job board that aggregates listings from various sources. While we strive to maintain accuracy, 
+please verify all information directly with the employer.
+"""
+    
+    # Replace existing statistics section or append new one
+    if "## Latest Statistics" in content:
+        parts = content.split("## Latest Statistics")
+        content = parts[0] + stats_section
+    else:
+        content += "\n" + stats_section
+    
+    # Write updated content
+    readme_path.write_text(content)
 
 if __name__ == "__main__":
     scrape_and_save()
