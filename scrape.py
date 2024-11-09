@@ -199,9 +199,6 @@ def update_readme(base_dir: Path, stats: dict):
 - Full-time positions: {len(df[df['job_type'] == 'fulltime'])}
 - Internships: {len(df[df['job_type'] == 'internship'])}
 
-### Salary Information
-- Positions with salary data: {len(df[df['salary'].notna()])} ({(len(df[df['salary'].notna()]) / len(df) * 100):.1f}%)
-
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
 
