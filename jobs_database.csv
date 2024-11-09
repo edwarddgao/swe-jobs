@@ -3458,3 +3458,195 @@ Nice\-to\-haves:
 * Simulation experience with Gazebo or Issac Sim
 * Knowledge of embedded programming tools and frameworks
 * Previous usage of debugging and profiling tools","","https://www.indeed.com/cmp/Trossen-Robotics","","http://www.trossenrobotics.com","Downers Grove","11 to 50","","","2024-11-09 06:01:34.453850"
+"in-66e447a91f290837","indeed","https://www.indeed.com/viewjob?jk=66e447a91f290837","http://www.indeed.com/job/software-engineering-intern-66e447a91f290837","Software Engineering Intern","Fundusol","Remote, US","2024-11-07","parttime, contract","direct_data","hourly",20.0,25.0,"USD",True,"","","","","**January 1st 2025 start date (flexible)**
+
+Fundusol’s core innovation is a holistic modeling suite that takes in the solar and agricultural specifications of a given agrivoltaic project. The model uses panel geometry and irradiance data to predict shadowing dynamics beneath the system, and computational fluid dynamics to model temperatures throughout the system. These are both fed into a field\-scale biomass model to forecast both biomass growth of the specific crops grown beneath the panels as well as a recommended irrigation schedule. Additionally, the model leverages pvWatts to forecast solar production throughout the system’s lifetime, allowing for a holistic view of system performance. By iterating over possible system designs, the model enables us to design an optimal system and make agricultural recommendations for any agrivoltaic project anywhere in the country.
+
+Fundusol leverages this modeling suite and domain expertise to consult the largest solar developers in the world on the design and execution of agrivoltaics projects. We are backed by Stanford, CMU, and the Department of Energy. We commercialized in the summer of 2024, and have since designed over 850MW of projects. As we continue to grow rapidly, we are looking to bring on a partner to execute client projects, bring clients to our firm, expand our capabilities, and contribute to the exciting field of agrivoltaics.
+
+**Roles**
+
+**Data Engineer** 
+
+We are looking to hire our first data engineer. Whomever we hire will enable the seamless collection, transformation, analysis and integration of large\-scale datasets, which are essential for training cutting\-edge machine learning models. The role involves ensuring data quality and integrity through rigorous processes, collaborating closely with cross\-functional teams to meet data requirements, and optimizing workflows for efficiency and scalability. As the first person hired into this role, you will stay at the forefront of data engineering and machine learning innovations, contributing to the continuous improvement of our infrastructure. The ideal candidate will have strong programming skills in Python, experience with SQL, cloud platforms, and big data technologies. If this sounds like you, please apply!
+
+**Full Stack Engineer** 
+
+We’re looking for an exceptional full stack engineer who thinks business first, code second. You’re the kind of person who starts projects from scratch and works relentlessly to see them through. The ideal candidate has significant experience with frontend frameworks like React and backend technologies like Python, and is comfortable owning all aspects of shipping a user\-facing product—from deploying infrastructure to iterating based on customer feedback. You’ll be responsible for the software that humans interact with at Fundusol—everything from interfacing with our predictive models to keeping track of project leads.
+
+**CUDA Engineer** 
+
+We are seeking an engineer with demonstrated experience in CUDA programming to optimize and enhance our computational models of Agrivoltaic systems. This role requires deep expertise in parallel computing and experience in developing high\-performance simulations, especially in irradiance modeling and thermodynamic calculations. As a CUDA Engineer, you will work closely with our research and data science teams to design and implement optimized algorithms that efficiently simulate the energy flows and environmental impacts of solar\-integrated agricultural systems.
+
+Job Types: Part\-time, Contract
+
+Pay: $20\.00 \- $25\.00 per hour
+
+Expected hours: 10 – 25 per week
+
+Benefits:
+
+* Flexible schedule
+
+Schedule:
+
+* Choose your own hours
+
+Education:
+
+* High school or equivalent (Preferred)
+
+Work Location: Remote","","https://www.indeed.com/cmp/Fundusol","","","","","","","2024-11-09 12:01:45.549669"
+"in-6a3040dfa9204eb0","indeed","https://www.indeed.com/viewjob?jk=6a3040dfa9204eb0","https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/12831","Software Developer Intern","Nokia","US","2024-10-31","fulltime","direct_data","yearly",63434.0,80322.0,"USD",False,"","","","","**Position:** Software Developer Intern
+  
+
+**Number of Position(s):** 1
+  
+
+**Duration:** 10 Weeks
+  
+
+**Date:** June 2 \- August 8, 2025
+  
+
+**Location:** Hybrid
+  
+
+  
+
+**The team you'll be part of**
+
+Nokia Telecom Application Server (NTAS) is the first cloud\-native product in Nokia applying major new technologies, such as Kubernetes, docker, logstash, and kibana. We are looking for an energetic computer science student to intern with our NTAS Naperville Team to create proof\-of\-concept demos showing how we can revolutionize the phone call with features such as content sharing, AR/VR, real\-time language translation, and more.  
+
+
+
+  
+
+As Nokia's growth engine, we create value for communication service providers and enterprise customers by leading the transition to cloud\-native software and as\-a\-service delivery models. Our inclusive team of dreamers, doers, and disruptors push the limits from impossible to possible.  
+
+
+
+  
+
+**Education Recommendations**
+
+  
+
+Currently a candidate for a bachelor’s degree or diploma in Computer Science, Computer Systems Engineering, etc., or a related field with an accredited school in the US.
+  
+
+  
+
+Master’s degree is a plus .
+
+
+  
+Are you passionate about creating new, innovative apps that can positively impact society?
+
+
+**As part of our team, you will:**
+
+* Learn the software architecture for today’s mobile phone calls and how this will evolve to revolutionize the phone call beyond voice and video with AR/VR, content sharing, language translation, and more.
+* Design, code, and test visionary proof\-of\-concept demos of ideas provided by the full\-time team. This will build upon an existing proof\-of\-concept infrastructure with recently developed use cases created by past interns.
+* Be welcome to contribute your own ideas to add to and/or enhance the current portfolio of use cases.
+* Work autonomously and effectively in a mixed environment.
+* Use advanced analytical skills to solve complex problems or problems that do not have routine solutions and take a new perspective.
+
+  
+**You have:**
+
+* Expertise in web languages such as Angular and Javascript is a must. C/C\+\+ is a plus.
+* Have fluent English speaking, reading \& writing skills
+* Can work independently and as a team member
+* Good communication skills
+* Excellent problem\-solving skills
+
+**It would be nice if you are also:**
+
+* A self\-learner
+* A fast learner and open\-minded
+* Willing to take on new and interesting challenges
+* Are motivated, pro\-active, innovative, and take initiative
+* Enthusiastic about impacting the world for good through technology
+
+  
+**Come create the technology that helps the world act together**  
+
+  
+
+Nokia is committed to innovation and technology leadership across mobile, fixed and cloud networks. Your career here will have a positive impact on people’s lives and will help us build the capabilities needed for a more productive, sustainable, and inclusive world.
+  
+
+We challenge ourselves to create an inclusive way of working where we are open to new ideas, empowered to take risks and fearless to bring our authentic selves to work
+  
+
+  
+
+**What we offer**  
+
+  
+
+Nokia offers continuous learning opportunities, well\-being programs to support you mentally and physically, opportunities to join and get supported by employee resource groups, mentoring programs and highly diverse teams with an inclusive culture where people thrive and are empowered.
+  
+
+  
+
+**Nokia is committed to inclusion and is an equal opportunity employer**  
+
+  
+
+Nokia has received the following recognitions for its commitment to inclusion \& equality:  
+
+  
+
+
+
+* One of the World’s Most Ethical Companies by Ethisphere
+* Gender\-Equality Index by Bloomberg
+* Workplace Pride Global Benchmark
+
+At Nokia, we act inclusively and respect the uniqueness of people. Nokia’s employment decisions are made regardless of race, color, national or ethnic origin, religion, gender, sexual orientation, gender identity or expression, age, marital status, disability, protected veteran status or other characteristics protected by law. We are committed to a culture of inclusion built upon our core value of respect.
+  
+
+Join us and be part of a company where you will feel included and empowered to succeed.
+  
+
+  
+
+**Additional Information**  
+
+  
+
+US/Canada Nokia Offers a comprehensive benefits package that includes but is not limited to:  
+
+  
+
+* Corporate Retirement Savings Plan
+* Health and dental benefits
+* Short\-term disability, and long\-term disability
+* Life insurance, and AD\&D – Company paid 2x base pay
+* Optional or Supplemental life and AD\&D insurance (Employee/Spouse/Child)
+* Paid time off for holidays and Vacation
+* Employee Stock Purchase Plan
+* Tuition Assistance Plan
+* Adoption assistance
+* Employee Assistance Program/Work Life Resource Program
+
+The above benefits exclude students.
+**Disclaimer for US/Canada**  
+
+  
+
+Nokia Maintains broad annual base salary ranges for its roles in order to account for variations in knowledge, skills, experience and market conditions, and with consideration to internal peer equity.( Check the salary ranges in the job info section for this role )
+  
+
+  
+
+**All North America job posts will post for a minimum of 7 calendar days and up to 180 days or until candidate/s identified.**","Computers And Electronics","https://www.indeed.com/cmp/Nokia","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/795a9e6aa607d54bb51b3a54b68930b0","https://www.nokia.com/careers","Espoo, Finland","10,000+","more than $10B (USD)","Join Nokia and help create the technology that helps the world act together.","2024-11-09 12:01:45.549669"
+"li-4065460830","linkedin","https://www.linkedin.com/jobs/view/4065460830","","IT Internship- Austin -ONSITE- W2 only","EPMA","Austin, TX","2024-11-05","","","","","","","","","","","","","","https://www.linkedin.com/company/epma","","","","","","","2024-11-09 12:01:45.549669"
+"li-4068286722","linkedin","https://www.linkedin.com/jobs/view/4068286722","","Software Engineering Intern (Summer 2025)","Viam","New York, NY","2024-11-04","","","","","","","","","","","","","","https://www.linkedin.com/company/viaminc","","","","","","","2024-11-09 12:01:45.549669"
+"li-4066884622","linkedin","https://www.linkedin.com/jobs/view/4066884622","","Strategic Student Program: Software Engineering Intern (EBS, Spring 2025)","Siemens Digital Industries Software","Boulder, CO","2024-11-02","","","","","","","","","","","","","","https://www.linkedin.com/company/siemenssoftware","","","","","","","2024-11-09 12:01:45.549669"
+"li-4049488712","linkedin","https://www.linkedin.com/jobs/view/4049488712","","Backend Software Engineering Intern, Flight Systems","Wing","Palo Alto, CA","2024-11-02","","","","","","","","","","","","","","https://www.linkedin.com/company/wing","","","","","","","2024-11-09 12:01:45.549669"
+"li-4064974811","linkedin","https://www.linkedin.com/jobs/view/4064974811","","Software Engineer, Summer Internship - REMOTE, US","Indico Data","","2024-11-01","","","","","","","","","","","","","","https://www.linkedin.com/company/indico-data-solutions","","","","","","","2024-11-09 12:01:45.549669"
+"li-4064967420","linkedin","https://www.linkedin.com/jobs/view/4064967420","","Software Engineering Intern","Reddit, Inc.","San Francisco, CA","2024-11-01","","","","","","","","","","","","","","https://www.linkedin.com/company/reddit-com","","","","","","","2024-11-09 12:01:45.549669"
+"li-4012936430","linkedin","https://www.linkedin.com/jobs/view/4012936430","","Software Engineering Intern (Summer 2025)","Scale AI","","2024-10-30","","","","","","","","","","","","","","https://www.linkedin.com/company/scaleai","","","","","","","2024-11-09 12:01:45.549669"

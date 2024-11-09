@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-09 06:01 UTC*
+*Last updated: 2024-11-09 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 40
-- 💼 Total jobs in database: 75
+- 📊 New jobs added: 9
+- 💼 Total jobs in database: 84
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,38 +11,38 @@
 |---------|---------------|
 | Rivian | 9 |
 | HashiCorp | 4 |
+| SiriusXM | 3 |
 | adswizz | 3 |
 | RippleMatch | 3 |
-| SiriusXM | 3 |
 | PTC | 2 |
 | Analytical Mechanics Associates, Inc. | 2 |
 | Garmin | 2 |
 | T-Mobile | 2 |
-| Tiffany & Co. | 2 |
+| Wing | 2 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | Palo Alto, CA, US | 9 |
 | New York, NY, US | 5 |
-| Remote, US | 3 |
-| Oakland, CA, US | 2 |
-| Parsippany-Troy Hills, NJ, US | 2 |
+| Remote, US | 4 |
 | San Francisco, CA, US | 2 |
 | San Mateo, CA | 2 |
-| Hagerstown, MD, US | 1 |
-| Austin, TX, US | 1 |
-| Tucson, AZ, US | 1 |
+| San Francisco, CA | 2 |
+| Palo Alto, CA | 2 |
+| Austin, TX | 2 |
+| Parsippany-Troy Hills, NJ, US | 2 |
+| Oakland, CA, US | 2 |
 
 ### Recently Added Positions
-- Jr. Software Engineer @ Axient (Huntsville, AL, US)
-- Software Engineering Intern @ GitHub, Inc. (nan)
-- Software Developer Intern - Generative AI Research (Spring 2025) @ Analytical Mechanics Associates, Inc. (nan)
-- Intern, Software Engineering @ Moog, Inc (Torrance, CA, US)
-- Software Engineering Intern @ Corning (Fairport, NY, US)
+- Software Engineering Intern @ Fundusol (Remote, US)
+- Software Developer Intern @ Nokia (US)
+- IT Internship- Austin -ONSITE- W2 only @ EPMA (Austin, TX)
+- Software Engineering Intern (Summer 2025) @ Viam (New York, NY)
+- Strategic Student Program: Software Engineering Intern (EBS, Spring 2025) @ Siemens Digital Industries Software (Boulder, CO)
 
 ### Job Types
-- Full-time positions: 17
+- Full-time positions: 18
 - Internships: 18
 
 ## Contributing
