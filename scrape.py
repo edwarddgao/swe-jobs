@@ -174,22 +174,7 @@ def update_readme(base_dir: Path, stats: dict):
     
     # Create default README content if it doesn't exist
     if not readme_path.exists():
-        default_content = """# Software Engineering Job Board
 
-An automated job board tracking entry-level and internship opportunities in software engineering.
-Updated daily with new positions from major job sites.
-
-## About
-This repository maintains a database of entry-level and internship software engineering positions. 
-The data is automatically collected and updated daily using [JobSpy](https://github.com/ZachWolpe/JobSpy).
-
-## How to Use
-- Browse the `jobs_database.csv` file for all current listings
-- Jobs are automatically deduplicated and verified as entry-level positions
-- Each job includes details like company, location, salary (when available), and full description
-- New jobs are added daily while maintaining historical data
-"""
-        readme_path.write_text(default_content)
     
     # Read existing content
     content = readme_path.read_text()
