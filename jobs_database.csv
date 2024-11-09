@@ -563,3 +563,513 @@ We respect the privacy rights of individuals and are committed to handling Perso
 "li-4068522933","linkedin","https://www.linkedin.com/jobs/view/4068522933","","Software Engineer Intern, Backend","Talos","New York, United States","","","","","","","","","","","","","","","https://www.linkedin.com/company/talos-trading","","","","","","","2024-11-09T01:08:15.565602"
 "li-4068536039","linkedin","https://www.linkedin.com/jobs/view/4068536039","","Embedded Software Engineer Intern","Skydio","San Mateo, CA","","","","","","","","","","","","","","","https://www.linkedin.com/company/skydio","","","","","","","2024-11-09T01:08:15.565602"
 "li-4070154260","linkedin","https://www.linkedin.com/jobs/view/4070154260","","Software Engineering Intern (Undergraduate)","HashiCorp","Austin, TX","","","","","","","","","","","","","","","https://www.linkedin.com/company/hashicorp","","","","","","","2024-11-09T01:08:15.565602"
+"li-4052905317","linkedin","https://www.linkedin.com/jobs/view/4052905317","","[2025] Software Engineer, Game Engine Programmability - New Grad","Roblox","San Mateo, CA","","","","","","","","","","","","","","","https://www.linkedin.com/company/roblox","","","","","","","2024-11-09 01:15:27.267217"
+"li-4063911805","linkedin","https://www.linkedin.com/jobs/view/4063911805","","New Grad: Dataplane Software Engineer","Ciena","Burlington, MA","","","","","","","","","","","","","","","https://www.linkedin.com/company/ciena","","","","","","","2024-11-09 01:15:27.267217"
+"li-4068368292","linkedin","https://www.linkedin.com/jobs/view/4068368292","","Software Engineer, DB Engine Intern (Summer 2025)","SingleStore","Lane County, OR","","","","","","","","","","","","","","","https://www.linkedin.com/company/singlestore","","","","","","","2024-11-09 01:15:27.267217"
+"in-c59165d67de5ab92","indeed","https://www.indeed.com/viewjob?jk=c59165d67de5ab92","https://careers.rivian.com/jobs/20015/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Engineering Intern - Motion Planning & Optimization, Autonomy","Rivian","Palo Alto, CA, US","2024-11-08","fulltime","direct_data","hourly",25.0,51.0,"USD",False,"","","","candidateaccommodations@rivian.com","About Us:
+
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions\-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.  
+
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+Role Summary:
+
+Internship Term:  
+
+Rivian internships are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program during the internship term with an expected graduation date between \[XXX] through \[XXX].  
+
+If you are not pursuing a degree, please see our full time positions on our Rivian careers site.  
+
+Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.  
+
+You’ll contribute to enhancing Rivian’s Lane Geometry Estimation (LGE) and Path Arbitrator (PathArb) systems through advanced nonlinear optimization, machine learning, and tool development. This role involves exploring complex ML models, optimizing LGE algorithms, and building internal tools to improve ADAS functionality. Working closely with Supervisor Soovadeep Bakshi, you’ll gain hands\-on experience in applying ML/AI to autonomous systems, helping shape the future of Rivian’s Electric Adventure Vehicles.
+Responsibilities:
+* Exploring Nonlinear Optimization Methods: Investigate and implement nonlinear optimization methods specifically for PathArb and LGE to enhance the accuracy and efficiency of vehicle path planning.
+* LGE Improvements Using PO Trails: Research and test the application of PO trails to improve LGE functionality, aiming to optimize Rivian’s lane estimation capabilities.
+* Machine Learning Initiatives for LGE: Undertake machine learning projects focused on improving LGE performance, leveraging data\-driven techniques for refined lane geometry estimation.
+* Tool Development for LGE: Build and deploy specialized tools for LGE that mirror the functionalities of tools developed for RAEB, streamlining processes and enhancing efficiency.
+
+
+Qualifications:
+* Currently pursuing or completed a Master’s or Ph.D. in Machine Learning, AI, Computer Science, or a related field; Mechanical Engineering or Electrical Engineering with ML/AI experience will also be considered.
+* Strong proficiency in C\+\+ and Python for algorithm development and data processing.
+* Understanding of nonlinear optimization techniques and their applications.
+* Solid foundation in machine learning, with a focus on applications within ADAS or autonomous systems.
+* Strong problem\-solving and analytical abilities, with experience in model development, optimization, and testing.
+* Excellent communication and teamwork skills, with the ability to work effectively in a cross\-functional environment.
+
+  
+
+\#LI\-\[SAI7]
+Pay Disclosure:
+**Salary Range/Hourly** **Rate for Internships**: The range of pay for internships is 25\.00\-51\.00 per hour. Actual compensation will be determined based on location, and other factors permitted by law.  
+
+Rivian provides robust wellness benefits, and a medical insurance package for interns, their spouse or domestic partner, and children up to age 26\. Coverage is effective on the first day of employment, and Rivian covers most of the premiums.
+Company Statements:
+#### **Equal Opportunity**
+
+
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.  
+
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.#### **Candidate Data Privacy**
+
+
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.  
+
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.  
+
+Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. **Please note that we are currently not accepting applications from third party application services.**","","https://www.indeed.com/cmp/Rivian-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dce137c67c15b65005d1558077d07c2b","https://careers.rivian.com/careers-home/","Irvine, CA","10,000+","Decline to state","Rivian is developing and manufacturing vehicles and technology to inspire people to  explore the world.","2024-11-09 01:15:27.267217"
+"in-70332c0eb6d31d8c","indeed","https://www.indeed.com/viewjob?jk=70332c0eb6d31d8c","https://careers.rivian.com/jobs/20001/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Engineering Intern - Autonomous Features, Systems Engineering","Rivian","Palo Alto, CA, US","2024-11-08","fulltime","direct_data","hourly",25.0,51.0,"USD",False,"","","","candidateaccommodations@rivian.com","About Us:
+
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions\-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.  
+
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+Role Summary:
+
+Internship Term:  
+
+Rivian internships are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program during the internship term with an expected graduation date between December 2025 and December 2027\.  
+
+If you are not pursuing a degree, please see our full time positions on our Rivian careers site.  
+
+Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.  
+
+The person in this role will work internally and cross functionally to analyze safety of the intended functionality of the ADAS features. This can include but is notlimited to deriving test cases, analyzing results from on road events, closed coarse testing or simulation.
+Responsibilities:
+* Review documentation including architectural diagrams and requirements to get a thorough understand of a feature functionality
+* Analyze one or more functionalities from a particular ADAS feature to define hazardous scenarios
+* Derive test cases based on the hazardous scenarios to understand how the feature would perform and work cross functionally to execute them as appropriate (physical testing and/or simulation)
+* Analyze the result of the tests to validate if performance criteria is metCollaborate with feature owners and developers to define and review requirements to improve the performance if required
+
+
+Qualifications:
+
+Actively pursuing a degree in Computer Science or similar Engineering degree* Basic understanding of systems engineering, required.
+* Knowledge of data analysis and related methodolgies, required.
+* Strong aptitude in programing skills using Python and SQL, required.
+* Demonstrated written and verbal communication skills required.
+* Basic understanding of autonomy stack is a plus.
+
+  
+
+\#LI\-\[SAI7]
+Pay Disclosure:
+**Salary Range/Hourly** **Rate for Internships**: The range of pay for internships is 25\.00\-51\.00 per hour. Actual compensation will be determined based on location, and other factors permitted by law.  
+
+Rivian provides robust wellness benefits, and a medical insurance package for interns, their spouse or domestic partner, and children up to age 26\. Coverage is effective on the first day of employment, and Rivian covers most of the premiums.
+Company Statements:
+#### **Equal Opportunity**
+
+
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.  
+
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.#### **Candidate Data Privacy**
+
+
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.  
+
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.  
+
+Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. **Please note that we are currently not accepting applications from third party application services.**","","https://www.indeed.com/cmp/Rivian-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dce137c67c15b65005d1558077d07c2b","https://careers.rivian.com/careers-home/","Irvine, CA","10,000+","Decline to state","Rivian is developing and manufacturing vehicles and technology to inspire people to  explore the world.","2024-11-09 01:15:27.267217"
+"in-56f1d0ae112bbcf4","indeed","https://www.indeed.com/viewjob?jk=56f1d0ae112bbcf4","https://careers.rivian.com/jobs/20004/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Engineering Intern - Data Operations, Machine Learning","Rivian","Palo Alto, CA, US","2024-11-08","fulltime","direct_data","hourly",25.0,51.0,"USD",False,"","","","candidateaccommodations@rivian.com","About Us:
+
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions\-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.  
+
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+Role Summary:
+
+Internship Term:  
+
+Rivian internships are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program during the internship term with an expected graduation date between December 2025 to December 2027\.  
+
+If you are not pursuing a degree, please see our full time positions on our Rivian careers site.  
+
+Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.  
+
+You’ll play a crucial role in managing, stabilizing, and deploying cloud infrastructure, focusing on AWS. This role includes maintaining Rivian’s cloud\-based data infrastructure, deploying new infrastructure as code, and supporting machine learning operations (MLOps). This hands\-on internship is ideal for a candidate with an interest in cloud architecture, data operations, and automation.
+Responsibilities:
+* AWS Infrastructure Management: Work with AWS cloud infrastructure, ensuring stability and operational efficiency across data operations.
+* Infrastructure as Code: Deploy new infrastructure using tools like Terraform or AWS CloudFormation, optimizing for scalability and resilience.
+* MLOps Support: Collaborate with the machine learning team to deploy and manage ML pipelines, ensuring robust and scalable ML model operations.
+* Monitoring and Optimization: Set up monitoring tools to track cloud performance and support troubleshooting and optimization efforts.
+* Documentation: Maintain clear documentation of cloud deployments, configurations, and infrastructure processes for future reference.
+
+
+Qualifications:
+* Currently pursuing a degree in Computer Science, Cloud Computing, or a related field with coursework in cloud infrastructure, data operations, or ML.
+* Cloud Infrastructure Skills: Experience with AWS services (EC2, S3, Lambda, etc.), and infrastructure\-as\-code tools like Terraform or AWS CloudFormation.
+* Programming and Scripting: Proficiency in Python, Bash, or other scripting languages for automation tasks.
+* Data and ML Knowledge: Familiarity with ML operations concepts and data pipeline management.
+* Problem\-Solving Skills: Strong analytical skills and attention to detail, with the ability to troubleshoot cloud infrastructure issues.
+* 40 hours/week, full\-time
+
+  
+
+\#LI\-\[SAI7]
+Pay Disclosure:
+**Salary Range/Hourly** **Rate for Internships**: The range of pay for internships is 25\.00\-51\.00 per hour. Actual compensation will be determined based on location, and other factors permitted by law.  
+
+Rivian provides robust wellness benefits, and a medical insurance package for interns, their spouse or domestic partner, and children up to age 26\. Coverage is effective on the first day of employment, and Rivian covers most of the premiums.
+Company Statements:
+#### **Equal Opportunity**
+
+
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.  
+
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.#### **Candidate Data Privacy**
+
+
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.  
+
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.  
+
+Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. **Please note that we are currently not accepting applications from third party application services.**","","https://www.indeed.com/cmp/Rivian-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dce137c67c15b65005d1558077d07c2b","https://careers.rivian.com/careers-home/","Irvine, CA","10,000+","Decline to state","Rivian is developing and manufacturing vehicles and technology to inspire people to  explore the world.","2024-11-09 01:15:27.267217"
+"in-62162dbbf5b5734a","indeed","https://www.indeed.com/viewjob?jk=62162dbbf5b5734a","https://careers.rivian.com/jobs/20003/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Engineering Intern - Data Operations, Machine Learning","Rivian","Palo Alto, CA, US","2024-11-08","fulltime","direct_data","hourly",25.0,51.0,"USD",False,"","","","candidateaccommodations@rivian.com","About Us:
+
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions\-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.  
+
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+Role Summary:
+
+Internship Term:  
+
+Rivian internships are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program during the internship term with an expected graduation date between \[XXX] through \[XXX].  
+
+If you are not pursuing a degree, please see our full time positions on our Rivian careers site.  
+
+Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.  
+
+You’ll play a crucial role in managing, stabilizing, and deploying cloud infrastructure, focusing on AWS. This role includes maintaining Rivian’s cloud\-based data infrastructure, deploying new infrastructure as code, and supporting machine learning operations (MLOps). This hands\-on internship is ideal for a candidate with an interest in cloud architecture, data operations, and automation.
+Responsibilities:
+* AWS Infrastructure Management: Work with AWS cloud infrastructure, ensuring stability and operational efficiency across data operations.
+* Infrastructure as Code: Deploy new infrastructure using tools like Terraform or AWS CloudFormation, optimizing for scalability and resilience.
+* MLOps Support: Collaborate with the machine learning team to deploy and manage ML pipelines, ensuring robust and scalable ML model operations.
+* Monitoring and Optimization: Set up monitoring tools to track cloud performance and support troubleshooting and optimization efforts.
+* Documentation: Maintain clear documentation of cloud deployments, configurations, and infrastructure processes for future reference.
+
+
+Qualifications:
+* Currently pursuing a degree in Computer Science, Cloud Computing, or a related field with coursework in cloud infrastructure, data operations, or ML.
+* Cloud Infrastructure Skills: Experience with AWS services (EC2, S3, Lambda, etc.), and infrastructure\-as\-code tools like Terraform or AWS CloudFormation.
+* Programming and Scripting: Proficiency in Python, Bash, or other scripting languages for automation tasks.
+* Data and ML Knowledge: Familiarity with ML operations concepts and data pipeline management.
+* Problem\-Solving Skills: Strong analytical skills and attention to detail, with the ability to troubleshoot cloud infrastructure issues.
+* 40 hours/week, full\-time
+
+  
+
+\#LI\-\[SAI7]
+Pay Disclosure:
+**Salary Range/Hourly** **Rate for Internships**: The range of pay for internships is 25\.00\-51\.00 per hour. Actual compensation will be determined based on location, and other factors permitted by law.  
+
+Rivian provides robust wellness benefits, and a medical insurance package for interns, their spouse or domestic partner, and children up to age 26\. Coverage is effective on the first day of employment, and Rivian covers most of the premiums.
+Company Statements:
+#### **Equal Opportunity**
+
+
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.  
+
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.#### **Candidate Data Privacy**
+
+
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.  
+
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.  
+
+Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. **Please note that we are currently not accepting applications from third party application services.**","","https://www.indeed.com/cmp/Rivian-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dce137c67c15b65005d1558077d07c2b","https://careers.rivian.com/careers-home/","Irvine, CA","10,000+","Decline to state","Rivian is developing and manufacturing vehicles and technology to inspire people to  explore the world.","2024-11-09 01:15:27.267217"
+"in-0de8ada9eca2f586","indeed","https://www.indeed.com/viewjob?jk=0de8ada9eca2f586","https://careers.rivian.com/jobs/20007/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Engineering Intern - AI Infrastructure, Autonomy","Rivian","Palo Alto, CA, US","2024-11-08","fulltime","direct_data","hourly",25.0,51.0,"USD",False,"","","","candidateaccommodations@rivian.com","About Us:
+
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions\-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.  
+
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+Role Summary:
+
+Internship Term:  
+
+Rivian internships are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program during the internship term with an expected graduation date between December 2025 and December 2027\.  
+
+If you are not pursuing a degree, please see our full time positions on our Rivian careers site.  
+
+Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.  
+
+You’ll work within a data\-oriented team using AWS to develop new data systems and infrastructure from the ground up. This role involves hands\-on work with a variety of data systems including PySpark (Databricks), MongoDB, and DynamoDB, utilizing cloud\-native infrastructure practices to solve data\-related challenges. The intern will engage in autonomous, project\-based tasks focused on building new code and systems, with a focus on data processing, AI/ML, and computer vision applications.
+Responsibilities:
+* Data Systems Development: Build and work with diverse data systems, including AWS data tools, PySpark on Databricks, MongoDB, and DynamoDB, to support data processing and storage needs.
+* Infrastructure as Code (IaC): Utilize IaC practices to develop and deploy data systems in a cloud\-native environment, with a focus on scalability and automation.
+* Autonomous Project Work: Take ownership of assigned projects, contributing directly to the development of new systems and applications.
+* Data Analysis and Troubleshooting: Dive into data challenges, performing data analysis using SQL or Python, and troubleshoot data\-related issues as they arise.
+* AI/ML and Computer Vision: Support projects related to AI/ML and computer vision, with opportunities to work on model training, inference, and AI frameworks
+
+
+Qualifications:
+* Master’s degree preferred in Electrical Engineering, Computer Science, or a related field.
+* Experience with cloud\-native data systems, particularly within the AWS ecosystem.
+* Proficiency in PySpark (Databricks), SQL, and Python for data processing and analysis.
+* Familiarity with infrastructure as code (IaC) tools and practices.
+* Basic understanding of AI/ML principles, including computer vision and AI frameworks for model training and inference.
+* Strong problem\-solving abilities, with demonstrated skills in troubleshooting and resolving data issues.
+* Self\-driven, eager to tackle new projects from scratch, with the ability to work independently on complex tasks.
+* 40 hours/week, full\-time.
+
+  
+
+\#LI\-\[SAI7]
+Pay Disclosure:
+**Salary Range/Hourly** **Rate for Internships**: The range of pay for internships is 25\.00\-51\.00 per hour. Actual compensation will be determined based on location, and other factors permitted by law.  
+
+Rivian provides robust wellness benefits, and a medical insurance package for interns, their spouse or domestic partner, and children up to age 26\. Coverage is effective on the first day of employment, and Rivian covers most of the premiums.
+Company Statements:
+#### **Equal Opportunity**
+
+
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.  
+
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.#### **Candidate Data Privacy**
+
+
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.  
+
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.  
+
+Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. **Please note that we are currently not accepting applications from third party application services.**","","https://www.indeed.com/cmp/Rivian-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dce137c67c15b65005d1558077d07c2b","https://careers.rivian.com/careers-home/","Irvine, CA","10,000+","Decline to state","Rivian is developing and manufacturing vehicles and technology to inspire people to  explore the world.","2024-11-09 01:15:27.267217"
+"in-07042007fa21ddf1","indeed","https://www.indeed.com/viewjob?jk=07042007fa21ddf1","https://careers.rivian.com/jobs/20013/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Engineering Intern - Motion Planning, Autonomy","Rivian","Palo Alto, CA, US","2024-11-08","fulltime","direct_data","hourly",25.0,51.0,"USD",False,"","","","candidateaccommodations@rivian.com","About Us:
+
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions\-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.  
+
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+Role Summary:
+
+Internship Term:  
+
+Rivian internships are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program during the internship term with an expected graduation date between December2025 to December 2027\.  
+
+If you are not pursuing a degree, please see our full time positions on our Rivian careers site.  
+
+Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.  
+
+You’ll play an essential role in developing vehicle trajectory planning systems that control where and how fast the vehicle travels, based on lane geometry, sensor inputs, map data, and vehicle tracking. This position offers the opportunity to contribute to critical ADAS functions like Adaptive Cruise Control (ACC) and Highway Assist, providing real\-world experience in advanced motion planning and control theory. This role is ideal for graduate\-level candidates in Mechanical Engineering, Electrical Engineering, Computer Science, or related fields, with an interest in applying AI and ML to motion planning.### 
+
+
+Responsibilities:
+* Trajectory Planning: Develop and refine algorithms to determine vehicle trajectories, incorporating data from sensors, lane geometry, map information, and vehicle tracking.
+* Control System Collaboration: Work closely with control systems to ensure smooth operation of ADAS features such as ACC and Highway Assist.
+* Data\-Driven Planning: Apply data\-driven AI and ML techniques to optimize motion planning and improve system responsiveness.
+* Algorithm Optimization: Assist in optimizing motion planning algorithms for performance and reliability, publishing trajectories in real\-time environments.
+* Cross\-Functional Collaboration: Collaborate with software, sensor, and mapping teams to enhance vehicle performance through precise motion planning.
+
+
+Qualifications:
+* Currently pursuing or completed a Master’s or Ph.D. in Mechanical Engineering, Electrical Engineering, Computer Science, or a related field; publications in motion planning, control theory, or ADAS\-related topics are a plus.
+* Strong proficiency in C\+\+ preferred; prior industry experience is a plus.
+* Knowledge in motion planning, control theory, and AI/ML applications within motion planning contexts.
+* Experience with data\-driven AI and ML techniques, particularly in planning or control theory applications.
+* Demonstrated ability to analyze complex systems and optimize algorithms for vehicle performance.
+* Effective communication and teamwork abilities, with experience working in cross\-disciplinary environments.
+* 40 hours/week, full\-time
+
+  
+
+\#LI\-\[SAI7]
+Pay Disclosure:
+**Salary Range/Hourly** **Rate for Internships**: The range of pay for internships is 25\.00\-51\.00 per hour. Actual compensation will be determined based on location, and other factors permitted by law.  
+
+Rivian provides robust wellness benefits, and a medical insurance package for interns, their spouse or domestic partner, and children up to age 26\. Coverage is effective on the first day of employment, and Rivian covers most of the premiums.
+Company Statements:
+#### **Equal Opportunity**
+
+
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.  
+
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.#### **Candidate Data Privacy**
+
+
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.  
+
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.  
+
+Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. **Please note that we are currently not accepting applications from third party application services.**","","https://www.indeed.com/cmp/Rivian-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dce137c67c15b65005d1558077d07c2b","https://careers.rivian.com/careers-home/","Irvine, CA","10,000+","Decline to state","Rivian is developing and manufacturing vehicles and technology to inspire people to  explore the world.","2024-11-09 01:15:27.267217"
+"in-beda34d8c9b592ad","indeed","https://www.indeed.com/viewjob?jk=beda34d8c9b592ad","https://careers.rivian.com/jobs/20005/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Engineering Intern - Data Applications, Machine Learning","Rivian","Palo Alto, CA, US","2024-11-08","fulltime","direct_data","hourly",25.0,51.0,"USD",False,"","","","candidateaccommodations@rivian.com","About Us:
+
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions\-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.  
+
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+Role Summary:
+
+Internship Term:  
+
+Rivian internships are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program during the internship term with an expected graduation date between December 2025 to December 2027  
+
+If you are not pursuing a degree, please see our full time positions on our Rivian careers site.  
+
+Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.  
+
+you’ll contribute to building and enhancing internal tools and web applications that support data processing and machine learning pipelines. This role involves working with JavaScript, React, and database technologies like MongoDB to create scalable, user\-friendly applications tailored to meet the evolving needs of Rivian’s data teams. This internship is ideal for candidates passionate about web development, data applications, and backend integration.
+Responsibilities:
+* Web Application Development: Build and maintain internal web applications using JavaScript and React, ensuring they meet the functional requirements of data processing and ML pipelines.
+* Database Management: Work with databases, particularly MongoDB, to manage data storage, retrieval, and integration within web applications.
+* User Interface Design: Develop intuitive, efficient user interfaces that make it easy for data and ML teams to interact with internal tools.
+* Backend Integration: Support backend development and ensure seamless integration with data processing pipelines, enhancing the performance and scalability of applications.
+* Collaboration and Documentation: Collaborate closely with data engineers, ML teams, and other stakeholders, documenting application functionality and workflows.
+
+
+Qualifications:
+* Currently pursuing a degree in Computer Science, Software Engineering, or a related field, with coursework in web development and databases.
+* Proficiency in JavaScript and experience with React for building dynamic web applications.
+* Familiarity with databases, particularly MongoDB, and understanding of database management.
+* Front\-End Development: Strong skills in front\-end development, with a focus on creating user\-friendly interfaces.
+* Collaborative Skills: Ability to work effectively within cross\-functional teams and communicate technical requirements clearly.
+* Problem\-Solving Skills: Strong analytical skills with attention to detail, especially in the context of data applications and backend integration.
+* 40 hours/week, full\-time
+
+
+\#LI\-\[ INSERTRECRUITERTAG ]
+Pay Disclosure:
+**Salary Range/Hourly** **Rate for Internships**: The range of pay for internships is 25\.00\-51\.00 per hour. Actual compensation will be determined based on location, and other factors permitted by law.  
+
+Rivian provides robust wellness benefits, and a medical insurance package for interns, their spouse or domestic partner, and children up to age 26\. Coverage is effective on the first day of employment, and Rivian covers most of the premiums.
+Company Statements:
+#### **Equal Opportunity**
+
+
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.  
+
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.#### **Candidate Data Privacy**
+
+
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.  
+
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.  
+
+Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. **Please note that we are currently not accepting applications from third party application services.**","","https://www.indeed.com/cmp/Rivian-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dce137c67c15b65005d1558077d07c2b","https://careers.rivian.com/careers-home/","Irvine, CA","10,000+","Decline to state","Rivian is developing and manufacturing vehicles and technology to inspire people to  explore the world.","2024-11-09 01:15:27.267217"
+"in-c49a0633da6936d0","indeed","https://www.indeed.com/viewjob?jk=c49a0633da6936d0","https://careers.rivian.com/jobs/19982/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Engineering Intern - Data Science, Product Quality","Rivian","Palo Alto, CA, US","2024-11-08","fulltime","direct_data","hourly",25.0,51.0,"USD",False,"","","","candidateaccommodations@rivian.com","About Us:
+
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions\-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.  
+
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+Role Summary:
+
+Internship Term:  
+
+Rivian internships are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program during the internship term with an expected graduation date between December 2025 and December 2027\.  
+
+If you are not pursuing a degree, please see our full time positions on our Rivian careers site.  
+
+Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.  
+
+As a Data Science Intern on Rivian’s Reliability and Product Development team, you’ll play a crucial role in driving product quality and reliability through data\-driven insights. By modeling and forecasting potential failures in critical systems like the HV battery pack and drive units, you’ll directly contribute to improving the performance and safety of Rivian’s vehicles on a global scale.### 
+
+
+Responsibilities:
+* Analyze extensive vehicle telemetry data to provide insights into product reliability and performance.
+* Develop statistical and machine learning models to predict and forecast field failures, supporting Rivian’s high standards of quality and safety.
+* Conduct research on algorithms, focusing on prototyping, validation, and iterative refinement for practical advancements.
+* Collaborate with engineers and analysts to harness big and small data across customer fleets, manufacturing, and service operations.
+* Communicate findings and model insights effectively to support decision\-making within cross\-functional teams.
+
+
+Qualifications:
+* Currently pursuing an M.S. degree in engineering, math, physics, computer science, or a related quantitative field.
+* Strong understanding of statistical and machine learning concepts, with experience in Python and the PyData stack; Spark experience is a plus.
+* Big fata technologies preferred.
+* Proficiency in SQL and data modeling, with the ability to work effectively in a fast\-paced, dynamic environment.
+* Demonstrated skills in data analysis, forecasting, and problem\-solving within applied machine learning projects.
+* Excellent communication skills for effectively conveying insights and collaborating with cross\-functional teams.
+* 40 hours/week, full\-time
+
+  
+
+\#LI\-\[SAI7]
+Pay Disclosure:
+**Salary Range/Hourly** **Rate for Internships**: The range of pay for internships is 25\.00\-51\.00 per hour. Actual compensation will be determined based on location, and other factors permitted by law.  
+
+Rivian provides robust wellness benefits, and a medical insurance package for interns, their spouse or domestic partner, and children up to age 26\. Coverage is effective on the first day of employment, and Rivian covers most of the premiums.
+Company Statements:
+#### **Equal Opportunity**
+
+
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.  
+
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.#### **Candidate Data Privacy**
+
+
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.  
+
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.  
+
+Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. **Please note that we are currently not accepting applications from third party application services.**","","https://www.indeed.com/cmp/Rivian-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dce137c67c15b65005d1558077d07c2b","https://careers.rivian.com/careers-home/","Irvine, CA","10,000+","Decline to state","Rivian is developing and manufacturing vehicles and technology to inspire people to  explore the world.","2024-11-09 01:15:27.267217"
+"in-420ce3b4e97dba94","indeed","https://www.indeed.com/viewjob?jk=420ce3b4e97dba94","https://careers.rivian.com/jobs/19965/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Engineering Intern - Firmware & Data Modeling, Reliability Diagnostics","Rivian","Palo Alto, CA, US","2024-11-08","fulltime","direct_data","hourly",25.0,51.0,"USD",False,"","","","candidateaccommodations@rivian.com","About Us:
+
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions\-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.  
+
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+Role Summary:
+
+Internship Term:  
+
+Rivian internships are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program during the internship term with an expected graduation date between December 2025 and December 2027  
+
+If you are not pursuing a degree, please see our full time positions on our Rivian careers site.  
+
+Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.  
+
+This role involves working on in\-vehicle tools that track performance and reliability metrics, using a mix of physics\-based models and deep learning. You’ll aid in developing models to predict vehicle wear, design end\-to\-end data processes, and work with embedded systems for edge\-based fault detection on Rivian’s fleet. This position requires technical breadth, problem\-solving skills, and a passion for building innovative, real\-world applications.
+Responsibilities:
+* Data Modeling and Prognostics: Develop models to predict vehicle wear based on diagnostic signals and assist with designing end\-to\-end processes, from data ingestion to predictive output.
+* Cross\-functional Collaboration: Work closely with mechanical engineers, firmware engineers, and data scientists to refine and deploy data models that translate into practical, edge\-based solutions for vehicle health monitoring.
+* Firmware Project Ownership: Manage firmware needs for your projects, ensuring effective communication and integration with cross\-functional teams.
+* Sensor and RTOS Integration: Develop software for systems utilizing live sensor inputs, applying RTOS (Real\-Time Operating System) expertise where required.
+* End\-to\-End Software Development: Participate in the software development life cycle from requirements gathering to deployment, including software security practices.
+* Reliability Platform Foundation: Help establish a data\-driven, edge\-based fault detection platform, contributing to the production quality and deployment on Rivian’s entire vehicle fleet.
+
+
+Qualifications:
+* Must be currently pursuing a Masters of PhD in Computer Science, Mathematics, Statistics, Engineering or Physics
+* Programming and Modeling: Strong Python skills with an understanding of object\-oriented design; C\+\+ proficiency is a plus.
+* RTOS and Sensor Experience: Knowledge in developing software for systems with live sensor inputs and experience with RTOS.
+* Cross\-functional Communication: Excellent communication skills, with the ability to explain complex software concepts to non\-software teammates and thrive in a close\-knit, diverse environment.
+* Software Security and Lifecycle: Familiarity with software security best practices and experience with the complete software development lifecycle.
+* Cross\-domain Expertise: Background or interest in fields such as mechanical or audio systems, with a strong collaborative mindset.
+* Analytical Skills: Proficiency with statistical tools (JMP, ReliaSoft) and/or experience with SQL is advantageous.
+* Edge Deployment: Knowledge or interest in developing and deploying edge\-based solutions for real\-world applications.
+
+  
+
+\#LI\-\[SAI7]
+Pay Disclosure:
+**Salary Range/Hourly** **Rate for Internships**: The range of pay for internships is 25\.00\-51\.00 per hour. Actual compensation will be determined based on location, and other factors permitted by law.  
+
+Rivian provides robust wellness benefits, and a medical insurance package for interns, their spouse or domestic partner, and children up to age 26\. Coverage is effective on the first day of employment, and Rivian covers most of the premiums.
+Company Statements:
+#### **Equal Opportunity**
+
+
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.  
+
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.#### **Candidate Data Privacy**
+
+
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.  
+
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.  
+
+Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions. **Please note that we are currently not accepting applications from third party application services.**","","https://www.indeed.com/cmp/Rivian-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dce137c67c15b65005d1558077d07c2b","https://careers.rivian.com/careers-home/","Irvine, CA","10,000+","Decline to state","Rivian is developing and manufacturing vehicles and technology to inspire people to  explore the world.","2024-11-09 01:15:27.267217"
+"in-aada6b3ac64ead63","indeed","https://www.indeed.com/viewjob?jk=aada6b3ac64ead63","https://careers.garmin.com/jobs/14818/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Engineering Intern","Garmin","Manhattan, KS, US","2024-11-08","internship","direct_data","yearly",62204.0,78764.0,"USD",False,"","","","","Overview:
+
+We are seeking a part\-time **Software Engineering Intern** in our Manhattan, KS location. In this role, you will be responsible for learning and training to develop software for Garmin's communication and navigation products under supervision.
+Responsibilities:
+**Essential Functions*** Learn to develop software using C, C\+\+, C\#, Java, assembly language, or other selected languages
+* Learn to test software using debuggers, emulators, simulators, and logic analyzers
+* Learn to perform software releases and software quality assurance activities
+* Learn to perform maintenance activities for products already in production in addition to new product software design
+
+
+Qualifications:
+**Basic Qualifications*** Completed coursework in Computer Science, Electrical Engineering, Computer Engineering, or a related field
+* Excellent academics (cumulative GPA greater than or equal to 3\.0 as a general rule)
+* Must possess relevant experience and/or training in languages such as C, C\+\+, C\# or Java
+* Must possess relevant experience and/or training in data structures or object oriented design methodology
+
+**Desirable Qualifications*** Outstanding academics (cumulative GPA greater than or equal to 3\.5\)
+* Previous experience working in a team environment
+
+ *Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran status, age or disability.* *This position is eligible for Garmin's intern program benefits. Details can be found here:* *Garmin Intern Benefits*","Computers And Electronics","https://www.indeed.com/cmp/Garmin","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f0c403b171b22146da295d3059b53ddd","http://www.garmin.com","1200 E. 151st Street 
+Olathe, KS 66062 United States","10,000+","$5B to $10B (USD)","Engineered on the inside for life on the outside.","2024-11-09 01:15:27.267217"
