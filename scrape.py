@@ -119,7 +119,7 @@ def scrape_and_save():
     unique_jobs = deduplicate_jobs(filtered_jobs, existing_jobs)
     
     # Add timestamp
-    unique_jobs.loc[:, 'scrape_timestamp'] = datetime.now().isoformat()
+    unique_jobs.loc[:, 'scrape_timestamp'] = pd.to_datetime(datetime.now().isoformat())
     
     # Combine with existing jobs and save
     if not existing_jobs.empty:
@@ -164,23 +164,17 @@ def update_readme(base_dir: Path, stats: dict):
     readme_path = base_dir / "README.md"
     csv_path = base_dir / "jobs_database.csv"
     
-    # Load jobs data for additional statistics
+    # Load jobs data and convert timestamp column to datetime
     df = pd.read_csv(csv_path)
+    df['scrape_timestamp'] = pd.to_datetime(df['scrape_timestamp'])
     
     # Calculate additional statistics
     company_counts = df['company'].value_counts().head(10)
     location_counts = df['location'].value_counts().head(10)
-    recent_jobs = df.nlargest(5, 'scrape_timestamp')
-    
-    # Create default README content if it doesn't exist
-    if not readme_path.exists():
-
-    
-    # Read existing content
-    content = readme_path.read_text()
+    recent_jobs = df.nlargest(5, 'scrape_timestamp')  # Now works with datetime column
     
     # Create statistics section
-    stats_section = f"""## Latest Statistics
+    content = f"""# Software Engineering Jobs
 *Last updated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}*
 
 ### Overview
@@ -215,13 +209,6 @@ Found a bug or want to suggest an improvement? Please open an issue or submit a 
 This is an automated job board that aggregates listings from various sources. While we strive to maintain accuracy, 
 please verify all information directly with the employer.
 """
-    
-    # Replace existing statistics section or append new one
-    if "## Latest Statistics" in content:
-        parts = content.split("## Latest Statistics")
-        content = parts[0] + stats_section
-    else:
-        content += "\n" + stats_section
     
     # Write updated content
     readme_path.write_text(content)
