@@ -1,9 +1,9 @@
-# Software Engineering Jobs
-*Last updated: 2024-11-09 01:20 UTC*
+# Latest Software Engineering Jobs
+*Last updated: 2024-11-09 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 4
-- 💼 Total jobs in database: 35
+- 📊 New jobs added: 40
+- 💼 Total jobs in database: 75
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,39 +11,39 @@
 |---------|---------------|
 | Rivian | 9 |
 | HashiCorp | 4 |
-| Garmin | 2 |
+| adswizz | 3 |
+| RippleMatch | 3 |
+| SiriusXM | 3 |
 | PTC | 2 |
-| Captivation Software | 1 |
-| Carrier | 1 |
-| SNC | 1 |
-| Hamilton Company | 1 |
-| Leidos | 1 |
-| ServiceNow | 1 |
+| Analytical Mechanics Associates, Inc. | 2 |
+| Garmin | 2 |
+| T-Mobile | 2 |
+| Tiffany & Co. | 2 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | Palo Alto, CA, US | 9 |
+| New York, NY, US | 5 |
+| Remote, US | 3 |
+| Oakland, CA, US | 2 |
+| Parsippany-Troy Hills, NJ, US | 2 |
+| San Francisco, CA, US | 2 |
 | San Mateo, CA | 2 |
-| Manhattan, KS, US | 1 |
-| San Francisco, CA, US | 1 |
-| Chatsworth, CA, US | 1 |
-| East Syracuse, NY, US | 1 |
 | Hagerstown, MD, US | 1 |
 | Austin, TX, US | 1 |
-| Reno, NV, US | 1 |
-| Annapolis Junction, MD, US | 1 |
+| Tucson, AZ, US | 1 |
 
 ### Recently Added Positions
-- [2025] Software Engineer, Game Engine Programmability - New Grad @ Roblox (San Mateo, CA)
-- New Grad: Dataplane Software Engineer @ Ciena (Burlington, MA)
-- Software Engineer, DB Engine Intern (Summer 2025) @ SingleStore (Lane County, OR)
-- Software Engineering Internship - SLC @ Recursion (Salt Lake City, UT)
-- Software Engineer 1 - DevOps @ Captivation Software (Annapolis Junction, MD, US)
+- Jr. Software Engineer @ Axient (Huntsville, AL, US)
+- Software Engineering Intern @ GitHub, Inc. (nan)
+- Software Developer Intern - Generative AI Research (Spring 2025) @ Analytical Mechanics Associates, Inc. (nan)
+- Intern, Software Engineering @ Moog, Inc (Torrance, CA, US)
+- Software Engineering Intern @ Corning (Fairport, NY, US)
 
 ### Job Types
-- Full-time positions: 12
-- Internships: 5
+- Full-time positions: 17
+- Internships: 18
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!

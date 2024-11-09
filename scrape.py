@@ -91,7 +91,7 @@ def scrape_and_save():
             search_term='"software engineering intern" OR "software developer intern"',
             job_type="internship",
             results_wanted=50,
-            hours_old=24,
+            hours_old=336,
             description_format="markdown"
         )
         all_new_jobs.append(internship_jobs)
@@ -174,7 +174,7 @@ def update_readme(base_dir: Path, stats: dict):
     recent_jobs = df.nlargest(5, 'scrape_timestamp')  # Now works with datetime column
     
     # Create statistics section
-    content = f"""# Software Engineering Jobs
+    content = f"""# Latest Software Engineering Jobs
 *Last updated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}*
 
 ### Overview
