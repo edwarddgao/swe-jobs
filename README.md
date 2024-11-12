@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-12 12:01 UTC*
+*Last updated: 2024-11-12 18:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 1
-- 💼 Total jobs in database: 127
+- 📊 New jobs added: 20
+- 💼 Total jobs in database: 147
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -13,33 +13,33 @@
 | CGI | 6 |
 | Uline | 5 |
 | Intuit | 5 |
+| Pinterest | 5 |
+| Wing | 4 |
 | HashiCorp | 4 |
-| RippleMatch | 3 |
-| SiriusXM | 3 |
-| adswizz | 3 |
+| Garmin | 3 |
 | Gusto | 3 |
-| Wing | 3 |
+| adswizz | 3 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | Palo Alto, CA, US | 9 |
+| San Francisco, CA | 6 |
+| Palo Alto, CA | 6 |
 | New York, NY, US | 6 |
-| San Francisco, CA | 5 |
 | Remote, US | 4 |
+| San Mateo, CA | 4 |
 | US | 3 |
-| Palo Alto, CA | 3 |
 | New York, NY | 3 |
-| Parsippany-Troy Hills, NJ, US | 2 |
-| Oakland, CA, US | 2 |
-| Austin, TX | 2 |
+| Foster City, CA | 2 |
+| San Francisco, CA, US | 2 |
 
 ### Recently Added Positions
-- Software Engineer @ PowerMarket (New York, NY, US)
-- Software Engineering Internship: Summer 2025 @ Susquehanna International Group, LLP (Bala-Cynwyd, PA, US)
-- Software Engineering Intern (Summer 2025) @ Danfoss (Durham, NC, US)
-- Software Engineering Intern (Summer 2025) @ Gusto (nan)
-- Energy Markets Software Engineering Intern @ GE Vernova (Bothell, WA, US)
+- Software Engineer 1 @ Skyworks Solutions (Austin, TX, US)
+- [2025] Software Engineer, Game Engine Network - New Grad @ Roblox (San Mateo, CA)
+- Software Engineer, DB Engine Intern (Summer 2025) @ SingleStore (Lane County, OR)
+- 2025 Software Engineering Summer Intern @ GCM Grosvenor (Chicago, IL)
+- Software Engineer Intern @ Jobs via Dice (Highlands Ranch, CO)
 
 ### Job Types
 - Full-time positions: 21
