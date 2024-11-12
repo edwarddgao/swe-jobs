@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-12 06:02 UTC*
+*Last updated: 2024-11-12 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 3
-- 💼 Total jobs in database: 126
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 127
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,12 +11,12 @@
 |---------|---------------|
 | Rivian | 9 |
 | CGI | 6 |
-| Intuit | 5 |
 | Uline | 5 |
+| Intuit | 5 |
 | HashiCorp | 4 |
 | RippleMatch | 3 |
-| adswizz | 3 |
 | SiriusXM | 3 |
+| adswizz | 3 |
 | Gusto | 3 |
 | Wing | 3 |
 
@@ -24,8 +24,8 @@
 | Location | Number of Jobs |
 |----------|---------------|
 | Palo Alto, CA, US | 9 |
+| New York, NY, US | 6 |
 | San Francisco, CA | 5 |
-| New York, NY, US | 5 |
 | Remote, US | 4 |
 | US | 3 |
 | Palo Alto, CA | 3 |
@@ -35,11 +35,11 @@
 | Austin, TX | 2 |
 
 ### Recently Added Positions
+- Software Engineer @ PowerMarket (New York, NY, US)
 - Software Engineering Internship: Summer 2025 @ Susquehanna International Group, LLP (Bala-Cynwyd, PA, US)
 - Software Engineering Intern (Summer 2025) @ Danfoss (Durham, NC, US)
 - Software Engineering Intern (Summer 2025) @ Gusto (nan)
 - Energy Markets Software Engineering Intern @ GE Vernova (Bothell, WA, US)
-- Software Engineering Internship @ Belden (Bakersfield, CA, US)
 
 ### Job Types
 - Full-time positions: 21
