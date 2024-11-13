@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-13 12:01 UTC*
+*Last updated: 2024-11-13 18:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 2
-- 💼 Total jobs in database: 165
+- 📊 New jobs added: 4
+- 💼 Total jobs in database: 169
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -12,12 +12,12 @@
 | Rivian | 9 |
 | RippleMatch | 7 |
 | CGI | 6 |
-| Pinterest | 5 |
 | Intuit | 5 |
 | Uline | 5 |
+| Pinterest | 5 |
 | Wing | 4 |
 | HashiCorp | 4 |
-| SiriusXM | 3 |
+| adswizz | 3 |
 | Garmin | 3 |
 
 ### Top Locations
@@ -28,22 +28,22 @@
 | San Francisco, CA | 6 |
 | Palo Alto, CA | 6 |
 | Remote, US | 5 |
-| San Mateo, CA | 4 |
 | New York, NY | 4 |
+| San Mateo, CA | 4 |
 | Austin, TX | 3 |
 | US | 3 |
 | Oakland, CA, US | 2 |
 
 ### Recently Added Positions
+- Software Engineering Intern (Hybrid Work Schedule) @ Quorum Business Solutions (Houston, TX, US)
+- Software Engineering Intern- Summer @ Carrier (Indianapolis, IN, US)
+- Software Developer Intern - 2025 @ NightwinG (Sterling, VA, US)
+- Software Developer Intern - 2025 @ NightwinG (Sterling, VA, US)
 - Junior Software Engineer @ Smart Capital Center (Remote, US)
-- GIS Software Engineering Intern @ TRC (Seattle, WA, US)
-- Software Engineer Intern @ Lockheed Martin (Highlands Ranch, CO, US)
-- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (Philadelphia, PA, US)
-- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (San Jose, CA, US)
 
 ### Job Types
-- Full-time positions: 23
-- Internships: 26
+- Full-time positions: 24
+- Internships: 29
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
