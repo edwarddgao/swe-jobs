@@ -1,49 +1,49 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-12 18:02 UTC*
+*Last updated: 2024-11-13 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 20
-- 💼 Total jobs in database: 147
+- 📊 New jobs added: 15
+- 💼 Total jobs in database: 162
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
 | Rivian | 9 |
+| RippleMatch | 7 |
 | CGI | 6 |
+| Pinterest | 5 |
 | Uline | 5 |
 | Intuit | 5 |
-| Pinterest | 5 |
 | Wing | 4 |
 | HashiCorp | 4 |
-| Garmin | 3 |
 | Gusto | 3 |
-| adswizz | 3 |
+| Garmin | 3 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | Palo Alto, CA, US | 9 |
+| New York, NY, US | 7 |
 | San Francisco, CA | 6 |
 | Palo Alto, CA | 6 |
-| New York, NY, US | 6 |
-| Remote, US | 4 |
 | San Mateo, CA | 4 |
+| New York, NY | 4 |
+| Remote, US | 4 |
+| Austin, TX | 3 |
 | US | 3 |
-| New York, NY | 3 |
-| Foster City, CA | 2 |
-| San Francisco, CA, US | 2 |
+| Oakland, CA, US | 2 |
 
 ### Recently Added Positions
-- Software Engineer 1 @ Skyworks Solutions (Austin, TX, US)
-- [2025] Software Engineer, Game Engine Network - New Grad @ Roblox (San Mateo, CA)
-- Software Engineer, DB Engine Intern (Summer 2025) @ SingleStore (Lane County, OR)
-- 2025 Software Engineering Summer Intern @ GCM Grosvenor (Chicago, IL)
-- Software Engineer Intern @ Jobs via Dice (Highlands Ranch, CO)
+- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (Philadelphia, PA, US)
+- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (San Jose, CA, US)
+- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (San Jose, CA)
+- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (Philadelphia, PA)
+- Software Engineering Intern (Spring 2025) @ Hone Health (New York, NY)
 
 ### Job Types
-- Full-time positions: 21
-- Internships: 23
+- Full-time positions: 22
+- Internships: 26
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
