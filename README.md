@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-14 00:01 UTC*
+*Last updated: 2024-11-14 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 2
-- 💼 Total jobs in database: 171
+- 📊 New jobs added: 3
+- 💼 Total jobs in database: 174
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -15,35 +15,35 @@
 | Uline | 5 |
 | Intuit | 5 |
 | Pinterest | 5 |
-| HashiCorp | 4 |
 | Wing | 4 |
-| Gusto | 3 |
-| Garmin | 3 |
+| HashiCorp | 4 |
+| adswizz | 3 |
+| SiriusXM | 3 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | Palo Alto, CA, US | 9 |
 | New York, NY, US | 7 |
-| San Francisco, CA | 6 |
 | Palo Alto, CA | 6 |
+| San Francisco, CA | 6 |
 | Remote, US | 5 |
-| San Mateo, CA | 4 |
 | New York, NY | 4 |
-| Austin, TX | 3 |
+| San Mateo, CA | 4 |
 | US | 3 |
-| Parsippany-Troy Hills, NJ, US | 2 |
+| Austin, TX | 3 |
+| Sterling, VA, US | 2 |
 
 ### Recently Added Positions
+- Entry Level Software Engineer @ Belay Technologies (Annapolis Junction, MD)
+- Software Engineering Intern @ Qorvo (Richardson, TX, US)
+- Intern - IT Software Engineer @ Micron Technology (Boise, ID, US)
 - Assoc, FPGA Software Engineer (New Grad- Carlsbad, CA @ L3Harris Technologies (Carlsbad, CA)
 - Software Engineering Intern @ KLA (Milpitas, CA, US)
-- Software Engineering Intern (Hybrid Work Schedule) @ Quorum Business Solutions (Houston, TX, US)
-- Software Engineering Intern- Summer @ Carrier (Indianapolis, IN, US)
-- Software Developer Intern - 2025 @ NightwinG (Sterling, VA, US)
 
 ### Job Types
 - Full-time positions: 25
-- Internships: 29
+- Internships: 31
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
