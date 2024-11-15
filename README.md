@@ -1,24 +1,24 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-15 06:01 UTC*
+*Last updated: 2024-11-15 12:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 2
-- 💼 Total jobs in database: 185
+- 📊 New jobs added: 11
+- 💼 Total jobs in database: 196
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
+| Uline | 11 |
 | Rivian | 9 |
 | RippleMatch | 7 |
-| Uline | 6 |
 | CGI | 6 |
-| Pinterest | 5 |
 | Intuit | 5 |
-| Wing | 4 |
+| Pinterest | 5 |
 | HashiCorp | 4 |
-| SiriusXM | 3 |
-| adswizz | 3 |
+| Wing | 4 |
+| Gusto | 3 |
+| Garmin | 3 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -26,24 +26,24 @@
 | Palo Alto, CA, US | 9 |
 | New York, NY, US | 7 |
 | San Francisco, CA | 6 |
-| Remote, US | 6 |
 | Palo Alto, CA | 6 |
-| San Mateo, CA | 4 |
+| Remote, US | 6 |
+| San Mateo, CA | 5 |
+| Austin, TX, US | 4 |
 | New York, NY | 4 |
+| Foster City, CA | 3 |
 | Austin, TX | 3 |
-| US | 3 |
-| Austin, TX, US | 3 |
 
 ### Recently Added Positions
-- Software Engineer, New College Grad - 2025 @ Visa (Austin, TX, US)
-- 2025 AI/ML Engineering Intern - Seasonal @ Bluestaq (Colorado Springs, CO, US)
-- Remote Software Engineering Intern: MAUI, iOS & Android Mobile Developer / C#, Embedded C++ & Rust @ Maxus33 (nan)
-- Remote Software Engineering Intern: MAUI, iOS & Android Mobile Developer / C#, Embedded C++ & Rust @ Maxus33 (Remote, US)
-- Software Engineer Intern @ Trideum Corporation (Augusta, GA, US)
+- Vehicle Simulation Associate Software Engineer @ FAAC Incorporated (Ann Arbor, MI)
+- Software Engineering Intern @ Electric Power Engineers (Austin, TX, US)
+- Software Engineering Intern @ Intuitive (Intuitive Surgical) (Sunnyvale, CA, US)
+- Software Developer Internship - Summer 2025 @ Uline (Glenview, IL)
+- Software Developer Internship - Summer 2025 @ Uline (Waukegan, IL)
 
 ### Job Types
 - Full-time positions: 30
-- Internships: 32
+- Internships: 34
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
