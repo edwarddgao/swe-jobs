@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-15 00:01 UTC*
+*Last updated: 2024-11-15 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 5
-- 💼 Total jobs in database: 183
+- 📊 New jobs added: 2
+- 💼 Total jobs in database: 185
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -13,36 +13,36 @@
 | RippleMatch | 7 |
 | Uline | 6 |
 | CGI | 6 |
-| Intuit | 5 |
 | Pinterest | 5 |
-| HashiCorp | 4 |
+| Intuit | 5 |
 | Wing | 4 |
+| HashiCorp | 4 |
 | SiriusXM | 3 |
-| Garmin | 3 |
+| adswizz | 3 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | Palo Alto, CA, US | 9 |
 | New York, NY, US | 7 |
-| Palo Alto, CA | 6 |
 | San Francisco, CA | 6 |
 | Remote, US | 6 |
-| New York, NY | 4 |
+| Palo Alto, CA | 6 |
 | San Mateo, CA | 4 |
-| US | 3 |
+| New York, NY | 4 |
 | Austin, TX | 3 |
-| Foster City, CA | 2 |
+| US | 3 |
+| Austin, TX, US | 3 |
 
 ### Recently Added Positions
+- Software Engineer, New College Grad - 2025 @ Visa (Austin, TX, US)
+- 2025 AI/ML Engineering Intern - Seasonal @ Bluestaq (Colorado Springs, CO, US)
 - Remote Software Engineering Intern: MAUI, iOS & Android Mobile Developer / C#, Embedded C++ & Rust @ Maxus33 (nan)
 - Remote Software Engineering Intern: MAUI, iOS & Android Mobile Developer / C#, Embedded C++ & Rust @ Maxus33 (Remote, US)
 - Software Engineer Intern @ Trideum Corporation (Augusta, GA, US)
-- Internship, Software Engineering @ Rockwell Automation (Mequon, WI, US)
-- Internship, Software Engineering @ Rockwell Automation (Mequon, WI, US)
 
 ### Job Types
-- Full-time positions: 29
+- Full-time positions: 30
 - Internships: 32
 
 ## Contributing
