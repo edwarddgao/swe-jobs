@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-16 00:01 UTC*
+*Last updated: 2024-11-16 06:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 4
-- 💼 Total jobs in database: 202
+- 📊 New jobs added: 9
+- 💼 Total jobs in database: 211
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -13,37 +13,37 @@
 | Rivian | 9 |
 | RippleMatch | 7 |
 | CGI | 6 |
-| Intuit | 5 |
+| Verkada | 5 |
 | Pinterest | 5 |
-| HashiCorp | 4 |
+| Intuit | 5 |
 | Rockwell Automation | 4 |
-| Wing | 4 |
-| Teradata | 3 |
+| Garmin | 4 |
+| HashiCorp | 4 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | Palo Alto, CA, US | 9 |
+| San Mateo, CA | 8 |
 | New York, NY, US | 7 |
-| Palo Alto, CA | 6 |
-| San Francisco, CA | 6 |
 | Remote, US | 6 |
-| San Mateo, CA | 5 |
+| San Francisco, CA | 6 |
+| Palo Alto, CA | 6 |
+| US | 4 |
 | Austin, TX, US | 4 |
 | New York, NY | 4 |
-| Austin, TX | 3 |
-| Foster City, CA | 3 |
+| Santa Clara, CA, US | 4 |
 
 ### Recently Added Positions
-- Software Engineer, DB Engine Intern (Summer 2025) @ SingleStore (Lane County, OR)
-- IT Intern @ J.R. Simplot Company (Boise, ID, US)
-- Intern, Software Engineering @ Rockwell Automation (Milwaukee, WI, US)
-- Intern, Software Engineering @ Rockwell Automation (Milwaukee, WI, US)
-- Software Engineering Intern @ Teradata (CA, US)
+- Entry-level Software Engineer @ Cognizant Technology Solutions (US)
+- Front End Software Engineering Intern @ Johnson & Johnson (Santa Clara, CA, US)
+- Software Engineering Intern 1 of 2 @ Johnson & Johnson (Santa Clara, CA, US)
+- Software Engineering Intern @ Badger Meter (Milwaukee, WI, US)
+- 2025 AI/ML Engineering Intern - Seasonal @ Bluestaq (Colorado Springs, CO)
 
 ### Job Types
-- Full-time positions: 34
-- Internships: 35
+- Full-time positions: 35
+- Internships: 37
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
