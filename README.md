@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-17 12:02 UTC*
+*Last updated: 2024-11-18 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 4
-- 💼 Total jobs in database: 220
+- 📊 New jobs added: 3
+- 💼 Total jobs in database: 223
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -14,32 +14,32 @@
 | RippleMatch | 7 |
 | CGI | 6 |
 | Verkada | 5 |
-| Pinterest | 5 |
 | Garmin | 5 |
+| Pinterest | 5 |
+| SingleStore | 5 |
 | Intuit | 5 |
-| Rockwell Automation | 4 |
-| SingleStore | 4 |
+| HashiCorp | 4 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| San Mateo, CA | 9 |
 | Palo Alto, CA, US | 9 |
+| San Mateo, CA | 9 |
+| San Francisco, CA | 7 |
 | New York, NY, US | 7 |
-| San Francisco, CA | 6 |
 | Palo Alto, CA | 6 |
 | Remote, US | 6 |
 | US | 4 |
-| Santa Clara, CA, US | 4 |
-| Austin, TX, US | 4 |
 | New York, NY | 4 |
+| Lane County, OR | 4 |
+| Santa Clara, CA, US | 4 |
 
 ### Recently Added Positions
+- Software Engineer, New Grad @ Stripe (San Francisco, CA)
+- Software Engineer, New Grad @ Stripe (Seattle, WA)
+- Software Engineer, DB Engine Intern (Summer 2025) @ SingleStore (Lane County, OR)
 - Software Engineering Intern @ Garmin (Yarmouth, ME)
 - Boston Software Engineer Intern @ Skydio (Boston, MA)
-- Software Engineering - Summer 2025 Intern @ Iron Mountain (Boston, MA)
-- Software Engineer: Fullstack Intern Opportunities for University Students, Redmond @ Microsoft (Redmond, WA)
-- [2025] Software Engineer, Game Engine Performance - New Grad @ Roblox (San Mateo, CA)
 
 ### Job Types
 - Full-time positions: 36
