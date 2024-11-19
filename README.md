@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-18 18:01 UTC*
+*Last updated: 2024-11-19 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 1
-- 💼 Total jobs in database: 224
+- 📊 New jobs added: 2
+- 💼 Total jobs in database: 226
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -13,12 +13,12 @@
 | Rivian | 9 |
 | RippleMatch | 7 |
 | CGI | 6 |
-| SingleStore | 5 |
-| Garmin | 5 |
-| Pinterest | 5 |
 | Intuit | 5 |
+| SingleStore | 5 |
+| Pinterest | 5 |
 | Verkada | 5 |
-| Rockwell Automation | 4 |
+| Garmin | 5 |
+| HashiCorp | 4 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -30,19 +30,19 @@
 | Palo Alto, CA | 6 |
 | Remote, US | 6 |
 | Austin, TX, US | 5 |
-| New York, NY | 4 |
+| US | 4 |
 | Lane County, OR | 4 |
 | Santa Clara, CA, US | 4 |
 
 ### Recently Added Positions
+- Software Engineering Intern III, Summer 2025 @ BAE Systems USA (Merrimack, NH, US)
+- Software Engineering Intern II, Summer 2025 @ BAE Systems USA (Nashua, NH, US)
 - Software Engineer Intern @ Riot Platforms, Inc. (Austin, TX, US)
 - Software Engineer, New Grad @ Stripe (San Francisco, CA)
 - Software Engineer, New Grad @ Stripe (Seattle, WA)
-- Software Engineer, DB Engine Intern (Summer 2025) @ SingleStore (Lane County, OR)
-- Software Engineering Intern @ Garmin (Yarmouth, ME)
 
 ### Job Types
-- Full-time positions: 37
+- Full-time positions: 39
 - Internships: 37
 
 ## Contributing
