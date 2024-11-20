@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-20 06:02 UTC*
+*Last updated: 2024-11-20 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 4
-- 💼 Total jobs in database: 241
+- 📊 New jobs added: 13
+- 💼 Total jobs in database: 254
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -13,33 +13,33 @@
 | Rivian | 9 |
 | RippleMatch | 7 |
 | CGI | 6 |
+| Roblox | 6 |
 | BAE Systems USA | 5 |
-| Intuit | 5 |
-| Pinterest | 5 |
-| Verkada | 5 |
 | Garmin | 5 |
+| Verkada | 5 |
+| Intuit | 5 |
 | SingleStore | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| San Mateo, CA | 10 |
+| San Mateo, CA | 13 |
 | Palo Alto, CA, US | 9 |
-| San Francisco, CA | 7 |
-| Remote, US | 7 |
+| San Francisco, CA | 8 |
 | New York, NY, US | 7 |
+| Remote, US | 7 |
 | Palo Alto, CA | 6 |
 | Austin, TX, US | 5 |
-| New York, NY | 4 |
+| New York, NY | 5 |
 | Lane County, OR | 4 |
-| US | 4 |
+| Santa Clara, CA, US | 4 |
 
 ### Recently Added Positions
-- 2025 Software Engineering Intern @ Oceaneering (Hanover, MD, US)
-- Software Engineering Intern - Commercial Platform Team @ Labcorp (Durham, NC, US)
-- Software Engineering Intern @ Fintech (Tampa, FL, US)
-- Software Engineering Intern @ Origami Risk (Chicago, IL)
-- Software Engineer: Systems Intern Opportunities for University Students, Atlanta @ Microsoft (Atlanta, GA, US)
+- Software Engineer - Recent College Graduate @ Kikoff (San Francisco, CA)
+- Software Engineer, New Grad @ IXL Learning (San Mateo, CA)
+- [2025] Software Engineer, Frontend - New Grad @ Roblox (San Mateo, CA)
+- Software Engineering AMTS/MTS (New Grad) @ Salesforce (New York, NY)
+- [2025] Software Engineer, Security - New Grad @ Roblox (San Mateo, CA)
 
 ### Job Types
 - Full-time positions: 45
