@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-21 12:01 UTC*
+*Last updated: 2024-11-21 18:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 3
-- 💼 Total jobs in database: 273
+- 📊 New jobs added: 4
+- 💼 Total jobs in database: 277
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -12,34 +12,34 @@
 | Uline | 11 |
 | Rivian | 9 |
 | RippleMatch | 7 |
-| Pinterest | 6 |
 | CGI | 6 |
 | Roblox | 6 |
-| BAE Systems USA | 5 |
-| Garmin | 5 |
+| Pinterest | 6 |
+| Microsoft | 5 |
+| SingleStore | 5 |
 | Wing | 5 |
-| Verkada | 5 |
+| Intuit | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | San Mateo, CA | 13 |
-| San Francisco, CA | 9 |
+| San Francisco, CA | 10 |
 | Palo Alto, CA, US | 9 |
 | Remote, US | 8 |
-| Palo Alto, CA | 7 |
 | New York, NY, US | 7 |
-| Austin, TX, US | 5 |
+| Palo Alto, CA | 7 |
 | New York, NY | 5 |
+| Austin, TX, US | 5 |
+| Chicago, IL | 4 |
 | US | 4 |
-| Santa Clara, CA, US | 4 |
 
 ### Recently Added Positions
+- Software Engineer - New Grad @ Scale AI (nan)
+- Quality Assurance - Master's Level Internship @ Vosyn (Toronto, ON)
+- Data Science Intern, Generative AI Infrastructure (Meraki) @ Cisco (San Francisco, CA)
+- Data Science Intern, Generative AI Infrastructure (Meraki) @ Cisco (Chicago, IL)
 - Software Engineer @ Tanduo Technical Partners Inc. (WI, US)
-- Software Development Intern @ General Dynamics Mission Systems, Inc (United States)
-- Software Development Intern @ General Dynamics Mission Systems (Remote, US)
-- Associate, Software Engineer - Machine Learning (New Grad) @ Salesforce (Indianapolis, IN)
-- Software Engineering Internship - OFSLL @ Westlake Financial (Los Angeles, CA, US)
 
 ### Job Types
 - Full-time positions: 49
