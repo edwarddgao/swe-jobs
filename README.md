@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-22 06:01 UTC*
+*Last updated: 2024-11-22 12:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 3
-- 💼 Total jobs in database: 288
+- 📊 New jobs added: 8
+- 💼 Total jobs in database: 296
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -12,13 +12,13 @@
 | Uline | 11 |
 | Rivian | 9 |
 | RippleMatch | 7 |
+| Pinterest | 7 |
 | Rockwell Automation | 7 |
-| Roblox | 6 |
 | CGI | 6 |
-| Pinterest | 6 |
-| BAE Systems USA | 5 |
+| Roblox | 6 |
 | Intuit | 5 |
-| Garmin | 5 |
+| Microsoft | 5 |
+| General Dynamics Mission Systems | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -32,14 +32,14 @@
 | Austin, TX, US | 6 |
 | Chicago, IL | 5 |
 | New York, NY | 5 |
-| Lane County, OR | 4 |
+| Austin, TX | 4 |
 
 ### Recently Added Positions
-- Remote Software Engineering intern - Web development @ Springer Capital (Remote, US)
-- Remote Software Engineering Intern - Webdevelopment @ Greentree Capital (Remote, US)
-- Intern, Embedded Software Engineering @ Rockwell Automation (Eden Prairie, MN, US)
-- SkillStorm, Entry Level Software Developer - Application via WayUp @ WayUp (Philadelphia, PA)
-- SkillStorm, Entry Level Software Developer - Application via WayUp @ WayUp (Chicago, IL)
+- Software Engineer, New Grad @ IXL Learning (Raleigh, NC)
+- Entry Level Software Engineer @ SynergisticIT (Charlotte, NC)
+- IT Software Engineering Intern (USA) @ Pinterest (nan)
+- Software Engineering Intern - Summer @ Carrier Refrigeration (East Syracuse, NY)
+- Software Engineering Intern - Summer 2025 @ empirical Foods (North Sioux City, SD)
 
 ### Job Types
 - Full-time positions: 53
