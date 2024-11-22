@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-21 18:02 UTC*
+*Last updated: 2024-11-22 00:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 4
-- 💼 Total jobs in database: 277
+- 📊 New jobs added: 8
+- 💼 Total jobs in database: 285
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -15,10 +15,10 @@
 | CGI | 6 |
 | Roblox | 6 |
 | Pinterest | 6 |
-| Microsoft | 5 |
+| Rockwell Automation | 6 |
 | SingleStore | 5 |
 | Wing | 5 |
-| Intuit | 5 |
+| Microsoft | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -27,23 +27,23 @@
 | San Francisco, CA | 10 |
 | Palo Alto, CA, US | 9 |
 | Remote, US | 8 |
-| New York, NY, US | 7 |
 | Palo Alto, CA | 7 |
+| New York, NY, US | 7 |
+| Austin, TX, US | 6 |
+| Chicago, IL | 5 |
 | New York, NY | 5 |
-| Austin, TX, US | 5 |
-| Chicago, IL | 4 |
 | US | 4 |
 
 ### Recently Added Positions
-- Software Engineer - New Grad @ Scale AI (nan)
-- Quality Assurance - Master's Level Internship @ Vosyn (Toronto, ON)
-- Data Science Intern, Generative AI Infrastructure (Meraki) @ Cisco (San Francisco, CA)
-- Data Science Intern, Generative AI Infrastructure (Meraki) @ Cisco (Chicago, IL)
-- Software Engineer @ Tanduo Technical Partners Inc. (WI, US)
+- SkillStorm, Entry Level Software Developer - Application via WayUp @ WayUp (Philadelphia, PA)
+- SkillStorm, Entry Level Software Developer - Application via WayUp @ WayUp (Chicago, IL)
+- SkillStorm, Entry Level Software Developer - Application via WayUp @ WayUp (Houston, TX)
+- Intern, Software Engineering @ Rockwell Automation (Mayfield Heights, OH, US)
+- Intern, Software Engineering @ Rockwell Automation (Mayfield Heights, OH, US)
 
 ### Job Types
-- Full-time positions: 49
-- Internships: 43
+- Full-time positions: 52
+- Internships: 45
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
