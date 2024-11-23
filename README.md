@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-23 12:02 UTC*
+*Last updated: 2024-11-23 18:01 UTC*
 
 ### Overview
 - 📊 New jobs added: 1
-- 💼 Total jobs in database: 302
+- 💼 Total jobs in database: 303
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -14,11 +14,11 @@
 | RippleMatch | 7 |
 | Pinterest | 7 |
 | Rockwell Automation | 7 |
-| Roblox | 6 |
 | CGI | 6 |
+| Roblox | 6 |
+| Microsoft | 5 |
 | General Dynamics Mission Systems | 5 |
-| Wing | 5 |
-| BAE Systems USA | 5 |
+| Verkada | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -27,19 +27,19 @@
 | San Francisco, CA | 11 |
 | Remote, US | 10 |
 | Palo Alto, CA, US | 9 |
-| Palo Alto, CA | 7 |
 | New York, NY, US | 7 |
+| Palo Alto, CA | 7 |
 | Austin, TX, US | 6 |
 | Chicago, IL | 5 |
 | New York, NY | 5 |
-| Lane County, OR | 4 |
+| Atlanta, GA | 4 |
 
 ### Recently Added Positions
+- Internship - Quality Assurance Engineer (F/M) @ Relay Financial (Toronto, ON)
 - Flight/Embedded Software Engineering Intern (Summer 2025) @ Impulse Space (Redondo Beach, CA)
 - Software Engineer, 2025 New Grad @ Whatnot (San Francisco, CA)
 - Software Engineer- Associate @ Visa (Bellevue, WA)
 - Tech Accelerate Graduate Program- Software Engineer I @ LexisNexis Risk Solutions (Alpharetta, GA)
-- Software Engineering Intern - Westwood @ The Baldwin Group (Woodland Hills, CA, US)
 
 ### Job Types
 - Full-time positions: 54
