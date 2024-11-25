@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-25 12:01 UTC*
+*Last updated: 2024-11-25 18:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 9
-- 💼 Total jobs in database: 315
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 316
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,14 +11,14 @@
 |---------|---------------|
 | Uline | 11 |
 | Rivian | 9 |
-| Rockwell Automation | 7 |
 | Pinterest | 7 |
-| RippleMatch | 7 |
 | Garmin | 7 |
-| CGI | 6 |
+| RippleMatch | 7 |
+| Rockwell Automation | 7 |
 | Roblox | 6 |
-| General Dynamics Mission Systems | 5 |
+| CGI | 6 |
 | BAE Systems USA | 5 |
+| Microsoft | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -35,10 +35,10 @@
 | US | 4 |
 
 ### Recently Added Positions
+- Software Engineering Intern @ Valeo (Troy, MI)
 - SOFTWARE DEVELOPER INTERN - Summer 2025 @ Nicolet National Bank (Green Bay, WI)
 - Raft Software Engineering Intern - Summer 2025 @ Raft (McLean, VA)
 - Software Developer Intern @ Veris Global (Lafayette, LA)
-- High School Software Engineering Intern @ Garmin (Olathe, KS)
 - High School Software Engineering Intern @ Garmin (Olathe, KS)
 
 ### Job Types
