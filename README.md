@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-25 18:02 UTC*
+*Last updated: 2024-11-26 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 1
-- 💼 Total jobs in database: 316
+- 📊 New jobs added: 4
+- 💼 Total jobs in database: 320
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,14 +11,14 @@
 |---------|---------------|
 | Uline | 11 |
 | Rivian | 9 |
-| Pinterest | 7 |
-| Garmin | 7 |
-| RippleMatch | 7 |
 | Rockwell Automation | 7 |
-| Roblox | 6 |
+| RippleMatch | 7 |
+| Garmin | 7 |
+| Pinterest | 7 |
 | CGI | 6 |
+| Roblox | 6 |
 | BAE Systems USA | 5 |
-| Microsoft | 5 |
+| General Dynamics Mission Systems | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -27,23 +27,23 @@
 | San Francisco, CA | 11 |
 | Remote, US | 10 |
 | Palo Alto, CA, US | 10 |
-| Palo Alto, CA | 7 |
 | New York, NY, US | 7 |
+| Palo Alto, CA | 7 |
 | Austin, TX, US | 6 |
-| Chicago, IL | 5 |
 | New York, NY | 5 |
-| US | 4 |
+| Chicago, IL | 5 |
+| Atlanta, GA | 4 |
 
 ### Recently Added Positions
+- Software Engineer 1 - Linux/Python/Ansible/SQL/Git/Kafka @ Captivation Software (Annapolis Junction, MD, US)
+- Software Engineer 1 - Java/Gitlab/Python/Bash @ Captivation Software (Annapolis Junction, MD, US)
+- Arity - Software Engineering Intern - Arity @ Arity (NC, US)
+- Software Engineering Intern (C++, Unix) @ KLA (Milpitas, CA, US)
 - Software Engineering Intern @ Valeo (Troy, MI)
-- SOFTWARE DEVELOPER INTERN - Summer 2025 @ Nicolet National Bank (Green Bay, WI)
-- Raft Software Engineering Intern - Summer 2025 @ Raft (McLean, VA)
-- Software Developer Intern @ Veris Global (Lafayette, LA)
-- High School Software Engineering Intern @ Garmin (Olathe, KS)
 
 ### Job Types
-- Full-time positions: 54
-- Internships: 47
+- Full-time positions: 55
+- Internships: 48
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
