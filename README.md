@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-26 00:01 UTC*
+*Last updated: 2024-11-26 06:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 4
-- 💼 Total jobs in database: 320
+- 📊 New jobs added: 7
+- 💼 Total jobs in database: 327
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,14 +11,14 @@
 |---------|---------------|
 | Uline | 11 |
 | Rivian | 9 |
-| Rockwell Automation | 7 |
 | RippleMatch | 7 |
 | Garmin | 7 |
+| Rockwell Automation | 7 |
 | Pinterest | 7 |
-| CGI | 6 |
 | Roblox | 6 |
-| BAE Systems USA | 5 |
-| General Dynamics Mission Systems | 5 |
+| CGI | 6 |
+| Intuit | 5 |
+| SingleStore | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -30,19 +30,19 @@
 | New York, NY, US | 7 |
 | Palo Alto, CA | 7 |
 | Austin, TX, US | 6 |
-| New York, NY | 5 |
 | Chicago, IL | 5 |
-| Atlanta, GA | 4 |
+| New York, NY | 5 |
+| Boulder, CO | 4 |
 
 ### Recently Added Positions
-- Software Engineer 1 - Linux/Python/Ansible/SQL/Git/Kafka @ Captivation Software (Annapolis Junction, MD, US)
-- Software Engineer 1 - Java/Gitlab/Python/Bash @ Captivation Software (Annapolis Junction, MD, US)
-- Arity - Software Engineering Intern - Arity @ Arity (NC, US)
-- Software Engineering Intern (C++, Unix) @ KLA (Milpitas, CA, US)
-- Software Engineering Intern @ Valeo (Troy, MI)
+- Software Engineer, 2025 New Grad @ Whatnot (nan)
+- NetApp Emerging Talent - Entry Level Software Engineer @ NetApp (San Jose, CA)
+- NetApp Emerging Talent - Entry Level Software Engineer @ NetApp (Wichita, KS)
+- Software Engineer / Developer Intern @ Grace Instrument (Houston, TX, US)
+- Software Engineering Intern @ Wisk (Mountain View, CA)
 
 ### Job Types
-- Full-time positions: 55
+- Full-time positions: 56
 - Internships: 48
 
 ## Contributing
