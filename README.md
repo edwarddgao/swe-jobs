@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-26 12:01 UTC*
+*Last updated: 2024-11-26 18:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 4
-- 💼 Total jobs in database: 331
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 332
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -15,10 +15,10 @@
 | Pinterest | 7 |
 | Garmin | 7 |
 | Rockwell Automation | 7 |
-| Roblox | 6 |
 | CGI | 6 |
-| SingleStore | 5 |
-| Intuit | 5 |
+| Roblox | 6 |
+| General Dynamics Mission Systems | 5 |
+| BAE Systems USA | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -30,20 +30,20 @@
 | New York, NY, US | 7 |
 | Palo Alto, CA | 7 |
 | Austin, TX, US | 6 |
-| New York, NY | 5 |
 | Chicago, IL | 5 |
-| Santa Clara, CA, US | 4 |
+| New York, NY | 5 |
+| Mountain View, CA | 4 |
 
 ### Recently Added Positions
+- Software Engineering Intern @ MTSI (Chantilly, VA, US)
 - Software Engineering Intern @ Teradata (CA, US)
 - Software Engineering Intern @ Teradata (CA, US)
 - Software Engineering Intern-Big Data @ MACOM (Lowell, MA)
 - Software Engineering Intern @ Modern Technology Solutions, Inc. (MTSI) (Chantilly, VA)
-- Software Engineer, 2025 New Grad @ Whatnot (nan)
 
 ### Job Types
 - Full-time positions: 58
-- Internships: 48
+- Internships: 49
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
