@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-26 06:02 UTC*
+*Last updated: 2024-11-26 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 7
-- 💼 Total jobs in database: 327
+- 📊 New jobs added: 4
+- 💼 Total jobs in database: 331
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -12,37 +12,37 @@
 | Uline | 11 |
 | Rivian | 9 |
 | RippleMatch | 7 |
+| Pinterest | 7 |
 | Garmin | 7 |
 | Rockwell Automation | 7 |
-| Pinterest | 7 |
 | Roblox | 6 |
 | CGI | 6 |
-| Intuit | 5 |
 | SingleStore | 5 |
+| Intuit | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | San Mateo, CA | 13 |
 | San Francisco, CA | 11 |
-| Remote, US | 10 |
 | Palo Alto, CA, US | 10 |
+| Remote, US | 10 |
 | New York, NY, US | 7 |
 | Palo Alto, CA | 7 |
 | Austin, TX, US | 6 |
-| Chicago, IL | 5 |
 | New York, NY | 5 |
-| Boulder, CO | 4 |
+| Chicago, IL | 5 |
+| Santa Clara, CA, US | 4 |
 
 ### Recently Added Positions
+- Software Engineering Intern @ Teradata (CA, US)
+- Software Engineering Intern @ Teradata (CA, US)
+- Software Engineering Intern-Big Data @ MACOM (Lowell, MA)
+- Software Engineering Intern @ Modern Technology Solutions, Inc. (MTSI) (Chantilly, VA)
 - Software Engineer, 2025 New Grad @ Whatnot (nan)
-- NetApp Emerging Talent - Entry Level Software Engineer @ NetApp (San Jose, CA)
-- NetApp Emerging Talent - Entry Level Software Engineer @ NetApp (Wichita, KS)
-- Software Engineer / Developer Intern @ Grace Instrument (Houston, TX, US)
-- Software Engineering Intern @ Wisk (Mountain View, CA)
 
 ### Job Types
-- Full-time positions: 56
+- Full-time positions: 58
 - Internships: 48
 
 ## Contributing
