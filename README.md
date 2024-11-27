@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-26 18:01 UTC*
+*Last updated: 2024-11-27 00:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 1
-- 💼 Total jobs in database: 332
+- 📊 New jobs added: 5
+- 💼 Total jobs in database: 337
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,13 +11,13 @@
 |---------|---------------|
 | Uline | 11 |
 | Rivian | 9 |
-| RippleMatch | 7 |
-| Pinterest | 7 |
-| Garmin | 7 |
 | Rockwell Automation | 7 |
+| Pinterest | 7 |
+| RippleMatch | 7 |
+| Garmin | 7 |
 | CGI | 6 |
 | Roblox | 6 |
-| General Dynamics Mission Systems | 5 |
+| Verkada | 5 |
 | BAE Systems USA | 5 |
 
 ### Top Locations
@@ -32,17 +32,17 @@
 | Austin, TX, US | 6 |
 | Chicago, IL | 5 |
 | New York, NY | 5 |
-| Mountain View, CA | 4 |
+| Boulder, CO | 4 |
 
 ### Recently Added Positions
-- Software Engineering Intern @ MTSI (Chantilly, VA, US)
-- Software Engineering Intern @ Teradata (CA, US)
-- Software Engineering Intern @ Teradata (CA, US)
-- Software Engineering Intern-Big Data @ MACOM (Lowell, MA)
-- Software Engineering Intern @ Modern Technology Solutions, Inc. (MTSI) (Chantilly, VA)
+- Software Engineer - New Grad 2025 @ Replit (Foster City, CA)
+- Software Engineering Intern (Summer 2025) {D} @ ARKA Group, L.P. (Danbury, CT, US)
+- Software Developer Intern @ PRECISION STRIP (Minster, OH, US)
+- Space Force Missile Track Custody Software Developer Intern (Summer 2025) @ Parsons (Boulder, CO, US)
+- Software Systems Hardware Integration Intern @ nan (Sunnyvale, CA, US)
 
 ### Job Types
-- Full-time positions: 58
+- Full-time positions: 62
 - Internships: 49
 
 ## Contributing
