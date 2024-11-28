@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-28 00:01 UTC*
+*Last updated: 2024-11-28 06:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 14
-- 💼 Total jobs in database: 353
+- 📊 New jobs added: 13
+- 💼 Total jobs in database: 366
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,14 +11,14 @@
 |---------|---------------|
 | RippleMatch | 17 |
 | Uline | 11 |
+| Intuit | 9 |
 | Rivian | 9 |
+| Pinterest | 7 |
 | Rockwell Automation | 7 |
 | Garmin | 7 |
-| Pinterest | 7 |
 | Roblox | 6 |
 | CGI | 6 |
-| Intuit | 5 |
-| Verkada | 5 |
+| BAE Systems USA | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -27,19 +27,19 @@
 | San Francisco, CA | 12 |
 | Remote, US | 10 |
 | Palo Alto, CA, US | 10 |
+| New York, NY | 8 |
 | New York, NY, US | 7 |
 | Palo Alto, CA | 7 |
-| Austin, TX, US | 6 |
 | Chicago, IL | 6 |
-| New York, NY | 6 |
-| Austin, TX | 5 |
+| Austin, TX, US | 6 |
+| US | 5 |
 
 ### Recently Added Positions
-- Software Engineer, New Grad (2025 Start) @ Zip (San Francisco, CA)
-- Software Engineer, New Grad - US Government @ Palantir Technologies (Washington, DC)
-- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (Los Angeles, CA)
-- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (New York, NY)
-- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (Denver, CO)
+- Software Engineer Entry Level @ JANUS Research Group (Aberdeen Proving Ground, MD)
+- Summer 2025 Intern - Software Engineering - Michigan @ Stryker (Portage, MI)
+- Software Systems Hardware Integration Intern @ Avicena Tech (Sunnyvale, CA)
+- Software Engineering Intern @ Panasonic Avionics Corporation (Irvine, CA)
+- Software Developer Intern @ Trillium Trading (New York, NY)
 
 ### Job Types
 - Full-time positions: 63
