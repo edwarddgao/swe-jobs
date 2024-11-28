@@ -1,48 +1,48 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-27 06:01 UTC*
+*Last updated: 2024-11-28 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 2
-- 💼 Total jobs in database: 339
+- 📊 New jobs added: 14
+- 💼 Total jobs in database: 353
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
+| RippleMatch | 17 |
 | Uline | 11 |
 | Rivian | 9 |
-| Garmin | 7 |
 | Rockwell Automation | 7 |
+| Garmin | 7 |
 | Pinterest | 7 |
-| RippleMatch | 7 |
 | Roblox | 6 |
 | CGI | 6 |
-| General Dynamics Mission Systems | 5 |
-| Microsoft | 5 |
+| Intuit | 5 |
+| Verkada | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | San Mateo, CA | 13 |
-| San Francisco, CA | 11 |
+| San Francisco, CA | 12 |
 | Remote, US | 10 |
 | Palo Alto, CA, US | 10 |
 | New York, NY, US | 7 |
 | Palo Alto, CA | 7 |
 | Austin, TX, US | 6 |
-| Chicago, IL | 5 |
-| New York, NY | 5 |
-| US | 5 |
+| Chicago, IL | 6 |
+| New York, NY | 6 |
+| Austin, TX | 5 |
 
 ### Recently Added Positions
-- Software Developer Intern @ AgFirst Farm Credit Bank (Columbia, SC, US)
-- Software Engineering Intern @ Trusted Space, Inc. (US)
-- Software Engineer - New Grad 2025 @ Replit (Foster City, CA)
-- Software Engineering Intern (Summer 2025) {D} @ ARKA Group, L.P. (Danbury, CT, US)
-- Software Developer Intern @ PRECISION STRIP (Minster, OH, US)
+- Software Engineer, New Grad (2025 Start) @ Zip (San Francisco, CA)
+- Software Engineer, New Grad - US Government @ Palantir Technologies (Washington, DC)
+- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (Los Angeles, CA)
+- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (New York, NY)
+- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (Denver, CO)
 
 ### Job Types
-- Full-time positions: 62
+- Full-time positions: 63
 - Internships: 50
 
 ## Contributing
