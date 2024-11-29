@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-29 06:01 UTC*
+*Last updated: 2024-11-29 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 2
-- 💼 Total jobs in database: 377
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 378
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -14,16 +14,16 @@
 | Intuit | 9 |
 | Rivian | 9 |
 | Rockwell Automation | 8 |
+| Roblox | 7 |
 | Pinterest | 7 |
 | Garmin | 7 |
-| Roblox | 6 |
 | CGI | 6 |
 | SingleStore | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| San Mateo, CA | 13 |
+| San Mateo, CA | 14 |
 | San Francisco, CA | 13 |
 | Remote, US | 10 |
 | Palo Alto, CA, US | 10 |
@@ -35,11 +35,11 @@
 | Atlanta, GA | 5 |
 
 ### Recently Added Positions
+- [2025] Software Engineer, Game Engine Reliability - New Grad @ Roblox (San Mateo, CA)
 - NetApp Emerging Talent - Entry Level Software Engineer @ NetApp (San Jose, CA)
 - Software Engineering Intern **Summer 2025 (Undergraduate - ONLY)** @ Nutanix (San Jose, CA)
 - junior python developer @ Helix Tech IT Services (Topeka, KS)
 - Software Engineering Intern @ ITW Rivex S.A.S. (Appleton, WI)
-- Software Developer Intern @ AgFirst Farm Credit Bank (Columbia, SC)
 
 ### Job Types
 - Full-time positions: 64
