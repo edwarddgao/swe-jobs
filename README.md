@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-29 00:03 UTC*
+*Last updated: 2024-11-29 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 7
-- 💼 Total jobs in database: 375
+- 📊 New jobs added: 2
+- 💼 Total jobs in database: 377
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -14,32 +14,32 @@
 | Intuit | 9 |
 | Rivian | 9 |
 | Rockwell Automation | 8 |
-| Garmin | 7 |
 | Pinterest | 7 |
+| Garmin | 7 |
 | Roblox | 6 |
 | CGI | 6 |
-| Teradata | 5 |
+| SingleStore | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| San Francisco, CA | 13 |
 | San Mateo, CA | 13 |
-| Palo Alto, CA, US | 10 |
+| San Francisco, CA | 13 |
 | Remote, US | 10 |
+| Palo Alto, CA, US | 10 |
 | New York, NY | 8 |
 | Palo Alto, CA | 7 |
 | New York, NY, US | 7 |
 | Chicago, IL | 6 |
 | Austin, TX, US | 6 |
-| Austin, TX | 5 |
+| Atlanta, GA | 5 |
 
 ### Recently Added Positions
+- NetApp Emerging Talent - Entry Level Software Engineer @ NetApp (San Jose, CA)
+- Software Engineering Intern **Summer 2025 (Undergraduate - ONLY)** @ Nutanix (San Jose, CA)
 - junior python developer @ Helix Tech IT Services (Topeka, KS)
 - Software Engineering Intern @ ITW Rivex S.A.S. (Appleton, WI)
 - Software Developer Intern @ AgFirst Farm Credit Bank (Columbia, SC)
-- Data Science Intern, Generative AI Infrastructure (Meraki) @ Cisco (San Francisco, CA)
-- Software Engineering Intern, Summer 2025 @ Amway (Ada, MI)
 
 ### Job Types
 - Full-time positions: 64
