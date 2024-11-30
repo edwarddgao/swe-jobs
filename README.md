@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-11-29 12:01 UTC*
+*Last updated: 2024-11-30 12:01 UTC*
 
 ### Overview
 - 📊 New jobs added: 1
-- 💼 Total jobs in database: 378
+- 💼 Total jobs in database: 379
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -35,11 +35,11 @@
 | Atlanta, GA | 5 |
 
 ### Recently Added Positions
+- Frontend Software Engineering Intern - 2025 Summer Intern @ Shield AI (nan)
 - [2025] Software Engineer, Game Engine Reliability - New Grad @ Roblox (San Mateo, CA)
 - NetApp Emerging Talent - Entry Level Software Engineer @ NetApp (San Jose, CA)
 - Software Engineering Intern **Summer 2025 (Undergraduate - ONLY)** @ Nutanix (San Jose, CA)
 - junior python developer @ Helix Tech IT Services (Topeka, KS)
-- Software Engineering Intern @ ITW Rivex S.A.S. (Appleton, WI)
 
 ### Job Types
 - Full-time positions: 64
