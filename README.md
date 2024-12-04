@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-04 06:01 UTC*
+*Last updated: 2024-12-04 12:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 7
-- 💼 Total jobs in database: 394
+- 📊 New jobs added: 8
+- 💼 Total jobs in database: 402
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -14,36 +14,36 @@
 | Intuit | 9 |
 | Rivian | 9 |
 | Rockwell Automation | 8 |
-| Roblox | 7 |
 | Pinterest | 7 |
+| Roblox | 7 |
 | Garmin | 7 |
 | CGI | 6 |
-| Salesforce | 5 |
+| Wing | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| San Francisco, CA | 14 |
 | San Mateo, CA | 14 |
-| Remote, US | 10 |
+| San Francisco, CA | 14 |
 | Palo Alto, CA, US | 10 |
+| Remote, US | 10 |
 | New York, NY | 9 |
 | New York, NY, US | 7 |
 | Palo Alto, CA | 7 |
-| Chicago, IL | 6 |
 | Mountain View, CA | 6 |
+| Chicago, IL | 6 |
 | Austin, TX, US | 6 |
 
 ### Recently Added Positions
-- Software Engineer (New Grad) @ Codeium (Mountain View, CA)
-- Software Engineer, 2025 New Grad @ Whatnot (San Francisco, CA)
-- Software Engineer (New Grad) @ Electric Era (Seattle, WA)
-- Entry Level Software Engineer @ SynergisticIT (Indianapolis, IN)
-- Software Engineering AMTS/MTS (New Grad) @ Salesforce (Boston, MA)
+- Software Engineering Intern - Python Backend and AI Integration (Remote) @ Crewscope (Toronto, ON)
+- Software Engineering Intern - Python Backend and AI Integration @ Crewscope (Toronto, ON)
+- Ultrasound Control Software Engineering Intern - (Summer 2025; 3-4 months) @ FujiFilm (Bothell, WA, US)
+- Professional Intern @ Neuronetics, Inc. (Malvern, PA)
+- Software Engineer Intern, Backend @ Imprint (New York, United States)
 
 ### Job Types
 - Full-time positions: 66
-- Internships: 54
+- Internships: 57
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
