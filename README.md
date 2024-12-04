@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-04 00:01 UTC*
+*Last updated: 2024-12-04 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 1
-- 💼 Total jobs in database: 387
+- 📊 New jobs added: 7
+- 💼 Total jobs in database: 394
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -15,31 +15,31 @@
 | Rivian | 9 |
 | Rockwell Automation | 8 |
 | Roblox | 7 |
-| Garmin | 7 |
 | Pinterest | 7 |
+| Garmin | 7 |
 | CGI | 6 |
-| Microsoft | 5 |
+| Salesforce | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
+| San Francisco, CA | 14 |
 | San Mateo, CA | 14 |
-| San Francisco, CA | 13 |
 | Remote, US | 10 |
 | Palo Alto, CA, US | 10 |
-| New York, NY | 8 |
-| Palo Alto, CA | 7 |
+| New York, NY | 9 |
 | New York, NY, US | 7 |
-| Austin, TX, US | 6 |
+| Palo Alto, CA | 7 |
 | Chicago, IL | 6 |
-| Austin, TX | 5 |
+| Mountain View, CA | 6 |
+| Austin, TX, US | 6 |
 
 ### Recently Added Positions
-- Software Engineering - Intern @ Blue Yonder (Dallas, TX, US)
-- Software Engineering Intern @ CommScope (Sunnyvale, CA, US)
-- Software Developer Intern @ GTI Energy (Des Plaines, IL, US)
-- Software Engineering Intern @ CommScope (Lowell, MA, US)
-- Software Engineering Intern- Spring 2025 @ Pison Technology (Boston, MA, US)
+- Software Engineer (New Grad) @ Codeium (Mountain View, CA)
+- Software Engineer, 2025 New Grad @ Whatnot (San Francisco, CA)
+- Software Engineer (New Grad) @ Electric Era (Seattle, WA)
+- Entry Level Software Engineer @ SynergisticIT (Indianapolis, IN)
+- Software Engineering AMTS/MTS (New Grad) @ Salesforce (Boston, MA)
 
 ### Job Types
 - Full-time positions: 66
