@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-03 06:01 UTC*
+*Last updated: 2024-12-04 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 2
-- 💼 Total jobs in database: 386
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 387
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -18,7 +18,7 @@
 | Garmin | 7 |
 | Pinterest | 7 |
 | CGI | 6 |
-| Verkada | 5 |
+| Microsoft | 5 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -28,18 +28,18 @@
 | Remote, US | 10 |
 | Palo Alto, CA, US | 10 |
 | New York, NY | 8 |
-| New York, NY, US | 7 |
 | Palo Alto, CA | 7 |
-| Chicago, IL | 6 |
+| New York, NY, US | 7 |
 | Austin, TX, US | 6 |
-| Sunnyvale, CA, US | 5 |
+| Chicago, IL | 6 |
+| Austin, TX | 5 |
 
 ### Recently Added Positions
+- Software Engineering - Intern @ Blue Yonder (Dallas, TX, US)
 - Software Engineering Intern @ CommScope (Sunnyvale, CA, US)
 - Software Developer Intern @ GTI Energy (Des Plaines, IL, US)
 - Software Engineering Intern @ CommScope (Lowell, MA, US)
 - Software Engineering Intern- Spring 2025 @ Pison Technology (Boston, MA, US)
-- Software Engineering Intern - Summer 2025 @ Motorola Solutions (Allen, TX, US)
 
 ### Job Types
 - Full-time positions: 66
