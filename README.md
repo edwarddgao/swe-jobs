@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-05 06:01 UTC*
+*Last updated: 2024-12-05 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 2
-- 💼 Total jobs in database: 412
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 413
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -35,11 +35,11 @@
 | Austin, TX, US | 6 |
 
 ### Recently Added Positions
+- NetApp Emerging Talent - Entry Level Software Engineer @ NetApp (San Jose, CA)
 - Summer 2025 - R&D Surgical Software Engineering Intern @ Alcon (Lake Forest, CA, US)
 - Software Engineer, AI Platform - Intern @ Nuro (Mountain View, CA)
 - Software Engineer, AI Platform - New Grad @ Nuro (Mountain View, CA)
 - Software Engineering Intern - Machine Learning and AI @ AMAROK (Columbia, SC, US)
-- Software Engineering Intern (Summer 2025) @ CodeHS, Inc. (Chicago, IL, US)
 
 ### Job Types
 - Full-time positions: 69
