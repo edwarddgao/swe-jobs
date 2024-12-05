@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-05 12:01 UTC*
+*Last updated: 2024-12-05 18:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 1
-- 💼 Total jobs in database: 413
+- 📊 New jobs added: 3
+- 💼 Total jobs in database: 416
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,8 +11,8 @@
 |---------|---------------|
 | RippleMatch | 17 |
 | Uline | 11 |
-| Intuit | 9 |
 | Rivian | 9 |
+| Intuit | 9 |
 | Rockwell Automation | 8 |
 | Pinterest | 7 |
 | Garmin | 7 |
@@ -29,17 +29,17 @@
 | Remote, US | 10 |
 | New York, NY | 9 |
 | Mountain View, CA | 8 |
-| Palo Alto, CA | 7 |
 | New York, NY, US | 7 |
-| Chicago, IL | 6 |
+| Palo Alto, CA | 7 |
 | Austin, TX, US | 6 |
+| Toronto, ON | 6 |
 
 ### Recently Added Positions
+- Software Quality Assurance Engineer (Internship) @ Score Media and Gaming Inc. (Toronto, ON)
+- Software Engineering Intern @ Neocis Inc (Miami, FL, US)
+- Internship Program: Software Engineer Intern @ Xtillion (San Juan, TX)
 - NetApp Emerging Talent - Entry Level Software Engineer @ NetApp (San Jose, CA)
 - Summer 2025 - R&D Surgical Software Engineering Intern @ Alcon (Lake Forest, CA, US)
-- Software Engineer, AI Platform - Intern @ Nuro (Mountain View, CA)
-- Software Engineer, AI Platform - New Grad @ Nuro (Mountain View, CA)
-- Software Engineering Intern - Machine Learning and AI @ AMAROK (Columbia, SC, US)
 
 ### Job Types
 - Full-time positions: 69
