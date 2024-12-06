@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-05 18:01 UTC*
+*Last updated: 2024-12-06 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 3
-- 💼 Total jobs in database: 416
+- 📊 New jobs added: 4
+- 💼 Total jobs in database: 420
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -14,35 +14,35 @@
 | Rivian | 9 |
 | Intuit | 9 |
 | Rockwell Automation | 8 |
+| Roblox | 7 |
 | Pinterest | 7 |
 | Garmin | 7 |
-| Roblox | 7 |
 | CGI | 6 |
-| Salesforce | 6 |
+| BAE Systems USA | 6 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | San Francisco, CA | 16 |
 | San Mateo, CA | 14 |
-| Palo Alto, CA, US | 10 |
 | Remote, US | 10 |
+| Palo Alto, CA, US | 10 |
 | New York, NY | 9 |
 | Mountain View, CA | 8 |
-| New York, NY, US | 7 |
 | Palo Alto, CA | 7 |
-| Austin, TX, US | 6 |
+| New York, NY, US | 7 |
 | Toronto, ON | 6 |
+| Austin, TX, US | 6 |
 
 ### Recently Added Positions
+- Entry Level Software Engineer @ Amentum (Fredericksburg, VA)
+- Software Engineer **Yuma Proving Ground, AZ** @ TRAX International (Yuma Proving Ground, AZ, US)
+- Entry Level Software Engineer @ Amentum (Fredericksburg, VA, US)
+- GXP Software Engineering Intern @ BAE Systems USA (San Diego, CA, US)
 - Software Quality Assurance Engineer (Internship) @ Score Media and Gaming Inc. (Toronto, ON)
-- Software Engineering Intern @ Neocis Inc (Miami, FL, US)
-- Internship Program: Software Engineer Intern @ Xtillion (San Juan, TX)
-- NetApp Emerging Talent - Entry Level Software Engineer @ NetApp (San Jose, CA)
-- Summer 2025 - R&D Surgical Software Engineering Intern @ Alcon (Lake Forest, CA, US)
 
 ### Job Types
-- Full-time positions: 69
+- Full-time positions: 72
 - Internships: 58
 
 ## Contributing
