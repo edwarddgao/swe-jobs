@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-07 00:02 UTC*
+*Last updated: 2024-12-07 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 6
-- 💼 Total jobs in database: 432
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 433
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -25,9 +25,9 @@
 |----------|---------------|
 | San Francisco, CA | 17 |
 | San Mateo, CA | 14 |
+| Remote, US | 10 |
 | New York, NY | 10 |
 | Palo Alto, CA, US | 10 |
-| Remote, US | 10 |
 | Mountain View, CA | 8 |
 | New York, NY, US | 7 |
 | Palo Alto, CA | 7 |
@@ -35,15 +35,15 @@
 | Chicago, IL | 6 |
 
 ### Recently Added Positions
+- Software Engineer: Internship Opportunities - US Army Reserve P3O Partnership @ Microsoft (Redmond, WA, US)
 - Entry Level Software Engineer @ Advanced Sciences and Technologies (AS&T) (Pomona, NJ, US)
 - Software Engineering Intern @ Techximius (Aberdeen, MD, US)
 - Embedded Software Engineering Intern @ Banner Engineering (Plymouth, MN, US)
 - Software Engineering Intern-Tempe, AZ-Summer 2025-ATAS @ Georgia Tech (Atlanta, GA, US)
-- MongoDB - Product Software Engineering Intern, application via RippleMatch @ RippleMatch (San Francisco, CA)
 
 ### Job Types
 - Full-time positions: 73
-- Internships: 60
+- Internships: 61
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
