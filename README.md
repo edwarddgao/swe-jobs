@@ -1,15 +1,15 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-22 12:00 UTC*
+*Last updated: 2024-12-22 18:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 2
-- 💼 Total jobs in database: 546
+- 📊 New jobs added: 3
+- 💼 Total jobs in database: 549
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
-| RippleMatch | 22 |
+| RippleMatch | 23 |
 | Uline | 11 |
 | Rivian | 11 |
 | Intuit | 9 |
@@ -23,23 +23,23 @@
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| San Francisco, CA | 17 |
+| San Francisco, CA | 18 |
 | Remote, US | 16 |
-| New York, NY | 14 |
+| New York, NY | 15 |
 | San Mateo, CA | 14 |
 | Palo Alto, CA, US | 12 |
 | Mountain View, CA | 9 |
 | New York, NY, US | 8 |
 | San Jose, CA | 8 |
-| Sunnyvale, CA, US | 7 |
+| Palo Alto, CA | 7 |
 | Austin, TX | 7 |
 
 ### Recently Added Positions
+- Notion - Software Engineering Intern (Summer 2025), application via RippleMatch @ RippleMatch (San Francisco, CA)
+- Software Engineering Intern @ Modern Technology Solutions, Inc. (MTSI) (Chantilly, VA)
+- AI Software Engineering Spring Internship 2025 @ Chapter One (New York, NY)
 - Software Engineering Intern, Customer Solutions @ Cambridge Mobile Telematics (Massachusetts, United States)
 - Software Engineering Intern, Platform Applications @ Cambridge Mobile Telematics (Massachusetts, United States)
-- Software Engineering Intern, Customer Solutions @ CMT Internships (Cambridge, MA, US)
-- Software Engineering Intern, Platform Applications @ CMT Internships (Cambridge, MA, US)
-- Software Engineering Intern, Front End @ CMT Internships (Cambridge, MA, US)
 
 ### Job Types
 - Full-time positions: 87
