@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-22 06:01 UTC*
+*Last updated: 2024-12-22 12:00 UTC*
 
 ### Overview
-- 📊 New jobs added: 5
-- 💼 Total jobs in database: 544
+- 📊 New jobs added: 2
+- 💼 Total jobs in database: 546
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -14,10 +14,10 @@
 | Rivian | 11 |
 | Intuit | 9 |
 | Rockwell Automation | 8 |
-| Childhood Cancer Society | 8 |
 | NetApp | 8 |
-| Microsoft | 7 |
+| Childhood Cancer Society | 8 |
 | Garmin | 7 |
+| Intern Protege | 7 |
 | Pinterest | 7 |
 
 ### Top Locations
@@ -25,21 +25,21 @@
 |----------|---------------|
 | San Francisco, CA | 17 |
 | Remote, US | 16 |
-| San Mateo, CA | 14 |
 | New York, NY | 14 |
+| San Mateo, CA | 14 |
 | Palo Alto, CA, US | 12 |
 | Mountain View, CA | 9 |
 | New York, NY, US | 8 |
 | San Jose, CA | 8 |
-| Santa Clara, CA, US | 7 |
 | Sunnyvale, CA, US | 7 |
+| Austin, TX | 7 |
 
 ### Recently Added Positions
+- Software Engineering Intern, Customer Solutions @ Cambridge Mobile Telematics (Massachusetts, United States)
+- Software Engineering Intern, Platform Applications @ Cambridge Mobile Telematics (Massachusetts, United States)
 - Software Engineering Intern, Customer Solutions @ CMT Internships (Cambridge, MA, US)
 - Software Engineering Intern, Platform Applications @ CMT Internships (Cambridge, MA, US)
 - Software Engineering Intern, Front End @ CMT Internships (Cambridge, MA, US)
-- Quality Engineer Intern @ CommScope (Sunnyvale, CA)
-- Notion - Software Engineering Intern (Summer 2025), application via RippleMatch @ RippleMatch (New York, NY)
 
 ### Job Types
 - Full-time positions: 87
