@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-23 18:01 UTC*
+*Last updated: 2024-12-24 18:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 1
-- 💼 Total jobs in database: 554
+- 📊 New jobs added: 4
+- 💼 Total jobs in database: 558
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -13,12 +13,12 @@
 | Uline | 11 |
 | Rivian | 11 |
 | Intuit | 9 |
-| NetApp | 8 |
 | Rockwell Automation | 8 |
+| NetApp | 8 |
 | Childhood Cancer Society | 8 |
+| SingleStore | 7 |
 | Garmin | 7 |
 | Microsoft | 7 |
-| Pinterest | 7 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -35,14 +35,14 @@
 | Palo Alto, CA | 7 |
 
 ### Recently Added Positions
+- SW Engineer @ Visa (Bellevue, WA, US)
+- Software Engineer, DB Engine Intern (Summer 2025) @ SingleStore (Lane County, OR)
+- Software Engineer Internship @ Ombra (Potsdam, NY, US)
+- Mobility Software Engineering Intern @ EchoStar (Germantown, MD, US)
 - Software Engineering Intern @ Electric Power Engineers (Austin, TX)
-- Software Engineering Intern (Summer 2025) @ DonorAtlas (New York, NY)
-- Software Engineer Intern @ SPS Commerce (Rogers, AR)
-- Accounting Assistant Internship @ Dulcedo (Toronto, ON)
-- Software Engineering Intern, Front End @ Cambridge Mobile Telematics (Massachusetts, United States)
 
 ### Job Types
-- Full-time positions: 87
+- Full-time positions: 89
 - Internships: 82
 
 ## Contributing
