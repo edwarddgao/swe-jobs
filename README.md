@@ -1,19 +1,19 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-25 12:02 UTC*
+*Last updated: 2024-12-25 18:00 UTC*
 
 ### Overview
-- 📊 New jobs added: 2
-- 💼 Total jobs in database: 565
+- 📊 New jobs added: 6
+- 💼 Total jobs in database: 571
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
 | RippleMatch | 23 |
-| Uline | 11 |
+| NetApp | 13 |
 | Rivian | 11 |
+| Uline | 11 |
 | Intuit | 9 |
-| NetApp | 8 |
 | Rockwell Automation | 8 |
 | Childhood Cancer Society | 8 |
 | Garmin | 8 |
@@ -24,22 +24,22 @@
 | Location | Number of Jobs |
 |----------|---------------|
 | San Francisco, CA | 18 |
-| Remote, US | 16 |
 | New York, NY | 16 |
+| Remote, US | 16 |
 | San Mateo, CA | 14 |
 | Palo Alto, CA, US | 12 |
+| San Jose, CA | 10 |
 | Mountain View, CA | 9 |
 | Austin, TX | 9 |
-| San Jose, CA | 8 |
 | New York, NY, US | 8 |
-| Santa Clara, CA, US | 7 |
+| Sunnyvale, CA, US | 7 |
 
 ### Recently Added Positions
-- 2025 University Recruiting - Software Engineering Intern @ Merck (Rahway, NJ)
-- Software Engineer - Intern @ Xometry (North Bethesda, MD)
-- 2025 Summer-Software Engineering Intern (MLB, FL) @ Leonardo DRS (Melbourne, FL)
-- Spring Intern @ Ducki (Austin, TX)
-- Software Engineering Intern @ Garmin (Yarmouth, ME)
+- NetApp Emerging Talent - Entry Level Software Engineer - ONTAP @ NetApp (San Jose, CA)
+- NetApp Emerging Talent - Entry Level Software Engineer - Cloud @ NetApp (San Jose, CA)
+- NetApp Emerging Talent - Entry Level Software Engineer - ONTAP @ NetApp (Boulder, CO)
+- NetApp Emerging Talent - Entry Level Software Engineer - ONTAP @ NetApp (Triangle, NC)
+- NetApp Emerging Talent - Entry Level Software Engineer - ONTAP @ NetApp (Waltham, MA)
 
 ### Job Types
 - Full-time positions: 89
