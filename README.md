@@ -1,16 +1,16 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-25 18:00 UTC*
+*Last updated: 2024-12-26 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 6
-- 💼 Total jobs in database: 571
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 572
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
 | RippleMatch | 23 |
-| NetApp | 13 |
+| NetApp | 14 |
 | Rivian | 11 |
 | Uline | 11 |
 | Intuit | 9 |
@@ -35,11 +35,11 @@
 | Sunnyvale, CA, US | 7 |
 
 ### Recently Added Positions
+- NetApp Emerging Talent - Entry Level Software Engineer - Cloud @ NetApp (Boulder, CO)
 - NetApp Emerging Talent - Entry Level Software Engineer - ONTAP @ NetApp (San Jose, CA)
 - NetApp Emerging Talent - Entry Level Software Engineer - Cloud @ NetApp (San Jose, CA)
 - NetApp Emerging Talent - Entry Level Software Engineer - ONTAP @ NetApp (Boulder, CO)
 - NetApp Emerging Talent - Entry Level Software Engineer - ONTAP @ NetApp (Triangle, NC)
-- NetApp Emerging Talent - Entry Level Software Engineer - ONTAP @ NetApp (Waltham, MA)
 
 ### Job Types
 - Full-time positions: 89
