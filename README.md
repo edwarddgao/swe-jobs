@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-26 18:01 UTC*
+*Last updated: 2024-12-27 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 3
-- 💼 Total jobs in database: 575
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 576
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -29,21 +29,21 @@
 | San Mateo, CA | 14 |
 | Palo Alto, CA, US | 12 |
 | San Jose, CA | 10 |
-| Austin, TX | 9 |
 | Mountain View, CA | 9 |
+| Austin, TX | 9 |
 | New York, NY, US | 8 |
 | Sunnyvale, CA, US | 7 |
 
 ### Recently Added Positions
+- Software Engineering Intern @ Federal Home Loan Bank of Cincinnati (Cincinnati, OH, US)
 - Remote Entry Level Software Engineer - RPA @ Get It - Professional Services (Fort George G. Meade, MD)
 - 2025 Summer - Software Engineering Intern (Dallas, TX) @ Leonardo DRS (Dallas, TX)
 - Software Engineering Intern @ Kimley-Horn (Peachtree Corners, GA)
 - NetApp Emerging Talent - Entry Level Software Engineer - Cloud @ NetApp (Boulder, CO)
-- NetApp Emerging Talent - Entry Level Software Engineer - ONTAP @ NetApp (San Jose, CA)
 
 ### Job Types
 - Full-time positions: 89
-- Internships: 82
+- Internships: 83
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
