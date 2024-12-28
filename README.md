@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-27 18:01 UTC*
+*Last updated: 2024-12-28 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 1
-- 💼 Total jobs in database: 579
+- 📊 New jobs added: 3
+- 💼 Total jobs in database: 582
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -15,10 +15,10 @@
 | Rivian | 11 |
 | Intuit | 9 |
 | Childhood Cancer Society | 8 |
-| Rockwell Automation | 8 |
 | Garmin | 8 |
+| Rockwell Automation | 8 |
 | Leonardo DRS | 8 |
-| Pinterest | 7 |
+| Microsoft | 7 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -32,18 +32,18 @@
 | Mountain View, CA | 9 |
 | Austin, TX | 9 |
 | New York, NY, US | 8 |
-| Santa Clara, CA, US | 7 |
+| Sunnyvale, CA, US | 8 |
 
 ### Recently Added Positions
+- Java Software Engineer @ StandBy Personnel, Inc. (Tulsa, OK, US)
+- 2025 University Recruiting - Software Engineering Intern @ Merck (Rahway, NJ, US)
+- Manufacturing Software Engineering Intern @ Intuitive (Intuitive Surgical) (Sunnyvale, CA, US)
 - Software Engineering Intern @ Federal Home Loan Bank of Cincinnati (Cincinnati, OH)
 - Middleware Software Intern @ Skydio (San Mateo, CA)
-- NetApp Emerging Talent - Entry Level Software Engineer - Cloud @ NetApp (Waltham, MA)
-- Software Engineering Intern @ Federal Home Loan Bank of Cincinnati (Cincinnati, OH, US)
-- Remote Entry Level Software Engineer - RPA @ Get It - Professional Services (Fort George G. Meade, MD)
 
 ### Job Types
-- Full-time positions: 89
-- Internships: 83
+- Full-time positions: 91
+- Internships: 84
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
