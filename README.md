@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-28 00:01 UTC*
+*Last updated: 2024-12-28 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 3
-- 💼 Total jobs in database: 582
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 583
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -14,7 +14,7 @@
 | Uline | 11 |
 | Rivian | 11 |
 | Intuit | 9 |
-| Childhood Cancer Society | 8 |
+| Childhood Cancer Society | 9 |
 | Garmin | 8 |
 | Rockwell Automation | 8 |
 | Leonardo DRS | 8 |
@@ -24,8 +24,8 @@
 | Location | Number of Jobs |
 |----------|---------------|
 | San Francisco, CA | 18 |
-| Remote, US | 16 |
 | New York, NY | 16 |
+| Remote, US | 16 |
 | San Mateo, CA | 15 |
 | Palo Alto, CA, US | 12 |
 | San Jose, CA | 10 |
@@ -35,11 +35,11 @@
 | Sunnyvale, CA, US | 8 |
 
 ### Recently Added Positions
+- Software Engineering Intern (Remote) @ Childhood Cancer Society (Bronx, NY)
 - Java Software Engineer @ StandBy Personnel, Inc. (Tulsa, OK, US)
 - 2025 University Recruiting - Software Engineering Intern @ Merck (Rahway, NJ, US)
 - Manufacturing Software Engineering Intern @ Intuitive (Intuitive Surgical) (Sunnyvale, CA, US)
 - Software Engineering Intern @ Federal Home Loan Bank of Cincinnati (Cincinnati, OH)
-- Middleware Software Intern @ Skydio (San Mateo, CA)
 
 ### Job Types
 - Full-time positions: 91
