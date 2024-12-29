@@ -1,24 +1,24 @@
 # Latest Software Engineering Jobs
-*Last updated: 2024-12-29 00:01 UTC*
+*Last updated: 2024-12-29 06:02 UTC*
 
 ### Overview
-- 📊 New jobs added: 10
-- 💼 Total jobs in database: 593
+- 📊 New jobs added: 4
+- 💼 Total jobs in database: 597
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
 | RippleMatch | 33 |
-| NetApp | 15 |
-| Uline | 11 |
+| NetApp | 18 |
 | Rivian | 11 |
+| Uline | 11 |
 | Intuit | 9 |
 | Childhood Cancer Society | 9 |
-| Garmin | 8 |
-| Rockwell Automation | 8 |
 | Leonardo DRS | 8 |
-| Microsoft | 7 |
+| Rockwell Automation | 8 |
+| Garmin | 8 |
+| General Dynamics Mission Systems | 7 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -31,18 +31,18 @@
 | San Jose, CA | 11 |
 | Austin, TX | 10 |
 | Mountain View, CA | 9 |
-| Sunnyvale, CA, US | 8 |
 | New York, NY, US | 8 |
+| Sunnyvale, CA, US | 8 |
 
 ### Recently Added Positions
+- Entry Level Software Engineer @ Harding Professional Services (Jacksonville, FL, US)
+- NetApp Emerging Talent - Entry Level Software Engineer - Cloud @ NetApp (Boulder, CO)
+- NetApp Emerging Talent - Entry Level Software Engineer - Cloud @ NetApp (Triangle, NC)
+- NetApp Emerging Talent - Entry Level Software Engineer - Cloud @ NetApp (Wichita, KS)
 - Entry Level Software Engineer, application via RippleMatch @ RippleMatch (Los Angeles, CA)
-- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (New York, NY)
-- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (San Jose, CA)
-- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (Boston, MA)
-- Entry Level Software Engineer, application via RippleMatch @ RippleMatch (Houston, TX)
 
 ### Job Types
-- Full-time positions: 91
+- Full-time positions: 92
 - Internships: 84
 
 ## Contributing
