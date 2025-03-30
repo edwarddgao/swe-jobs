@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-03-30 12:00 UTC*
+*Last updated: 2025-03-30 18:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 5
-- 💼 Total jobs in database: 705
+- 📊 New jobs added: 3
+- 💼 Total jobs in database: 708
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,14 +11,14 @@
 |---------|---------------|
 | RippleMatch | 33 |
 | NetApp | 18 |
-| Uline | 11 |
 | Rivian | 11 |
+| Uline | 11 |
 | CGI | 10 |
+| Garmin | 9 |
 | Childhood Cancer Society | 9 |
 | Intuit | 9 |
-| Rockwell Automation | 8 |
 | Leonardo DRS | 8 |
-| Garmin | 8 |
+| Rockwell Automation | 8 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -31,15 +31,15 @@
 | Sunnyvale, CA, US | 14 |
 | San Jose, CA | 11 |
 | Austin, TX | 10 |
+| Mountain View, CA | 9 |
 | Seattle, WA | 9 |
-| Austin, TX, US | 9 |
 
 ### Recently Added Positions
+- 2025 Internship - Software Development & Data Engineering @ The Johns Hopkins University Applied Physics Laboratory (Laurel, MD)
+- AI/ML Intern (Remote in California) @ Rocket Lawyer (California, United States)
+- Software Engineering Intern @ Garmin (Yarmouth, ME)
 - Summer Intern - Software Developer @ Commonwealth of Massachusetts (Chelsea, MA, US)
 - AI/ML Intern (Remote in Colorado) @ Rocket Lawyer (Colorado, United States)
-- Software Engineer Intern @ AEVEX Aerospace (Solana Beach, CA)
-- Software Engineering Intern (Summer 2025) @ Gemini (New York, NY)
-- Software Engineering Intern (Summer 2025) @ Gemini (Seattle, WA)
 
 ### Job Types
 - Full-time positions: 114
