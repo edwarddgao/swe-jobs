@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-03-30 00:01 UTC*
+*Last updated: 2025-03-30 12:00 UTC*
 
 ### Overview
-- 📊 New jobs added: 8
-- 💼 Total jobs in database: 700
+- 📊 New jobs added: 5
+- 💼 Total jobs in database: 705
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,35 +11,35 @@
 |---------|---------------|
 | RippleMatch | 33 |
 | NetApp | 18 |
-| Rivian | 11 |
 | Uline | 11 |
+| Rivian | 11 |
 | CGI | 10 |
 | Childhood Cancer Society | 9 |
 | Intuit | 9 |
 | Rockwell Automation | 8 |
-| Garmin | 8 |
 | Leonardo DRS | 8 |
+| Garmin | 8 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| New York, NY | 22 |
-| San Francisco, CA | 19 |
+| New York, NY | 23 |
 | Remote, US | 19 |
+| San Francisco, CA | 19 |
 | San Mateo, CA | 15 |
 | Palo Alto, CA, US | 14 |
 | Sunnyvale, CA, US | 14 |
 | San Jose, CA | 11 |
 | Austin, TX | 10 |
-| Mountain View, CA | 9 |
-| Palo Alto, CA | 9 |
+| Seattle, WA | 9 |
+| Austin, TX, US | 9 |
 
 ### Recently Added Positions
-- Web Software Engineering Intern @ SoundCloud (Los Angeles, CA)
-- Software Developer Intern, Front End @ Tenet3® (Dayton, OH)
-- Software Engineering Intern @ Pearson (Bloomington, MN)
-- Software Engineering Intern @ Integral Ad Science (San Francisco, CA)
-- Software Engineering Intern @ Westinghouse Electric Company (Shoreview, MN)
+- Summer Intern - Software Developer @ Commonwealth of Massachusetts (Chelsea, MA, US)
+- AI/ML Intern (Remote in Colorado) @ Rocket Lawyer (Colorado, United States)
+- Software Engineer Intern @ AEVEX Aerospace (Solana Beach, CA)
+- Software Engineering Intern (Summer 2025) @ Gemini (New York, NY)
+- Software Engineering Intern (Summer 2025) @ Gemini (Seattle, WA)
 
 ### Job Types
 - Full-time positions: 114
