@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-03-30 18:01 UTC*
+*Last updated: 2025-03-31 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 3
-- 💼 Total jobs in database: 708
+- 📊 New jobs added: 5
+- 💼 Total jobs in database: 713
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,13 +11,13 @@
 |---------|---------------|
 | RippleMatch | 33 |
 | NetApp | 18 |
-| Rivian | 11 |
 | Uline | 11 |
-| CGI | 10 |
+| Rivian | 11 |
+| CGI | 11 |
+| Intuit | 9 |
 | Garmin | 9 |
 | Childhood Cancer Society | 9 |
-| Intuit | 9 |
-| Leonardo DRS | 8 |
+| Rocket Lawyer | 9 |
 | Rockwell Automation | 8 |
 
 ### Top Locations
@@ -31,15 +31,15 @@
 | Sunnyvale, CA, US | 14 |
 | San Jose, CA | 11 |
 | Austin, TX | 10 |
-| Mountain View, CA | 9 |
-| Seattle, WA | 9 |
+| Santa Clara, CA, US | 9 |
+| Palo Alto, CA | 9 |
 
 ### Recently Added Positions
-- 2025 Internship - Software Development & Data Engineering @ The Johns Hopkins University Applied Physics Laboratory (Laurel, MD)
-- AI/ML Intern (Remote in California) @ Rocket Lawyer (California, United States)
-- Software Engineering Intern @ Garmin (Yarmouth, ME)
-- Summer Intern - Software Developer @ Commonwealth of Massachusetts (Chelsea, MA, US)
-- AI/ML Intern (Remote in Colorado) @ Rocket Lawyer (Colorado, United States)
+- Software Developer Intern (Summer Internship Program) @ CGI (Lebanon, VA)
+- Engineering Intern @ EnergyHub (Brooklyn, NY)
+- IT Software Engineer - Intern @ Murphy USA (El Dorado, AR)
+- AI/ML Intern (Remote in Utah) @ Rocket Lawyer (Utah, United States)
+- AI/ML Intern (Remote in North Carolina) @ Rocket Lawyer (North Carolina, United States)
 
 ### Job Types
 - Full-time positions: 114
