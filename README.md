@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-03-31 00:01 UTC*
+*Last updated: 2025-03-31 06:00 UTC*
 
 ### Overview
-- 📊 New jobs added: 5
-- 💼 Total jobs in database: 713
+- 📊 New jobs added: 2
+- 💼 Total jobs in database: 715
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,12 +11,12 @@
 |---------|---------------|
 | RippleMatch | 33 |
 | NetApp | 18 |
-| Uline | 11 |
 | Rivian | 11 |
 | CGI | 11 |
+| Uline | 11 |
 | Intuit | 9 |
-| Garmin | 9 |
 | Childhood Cancer Society | 9 |
+| Garmin | 9 |
 | Rocket Lawyer | 9 |
 | Rockwell Automation | 8 |
 
@@ -31,15 +31,15 @@
 | Sunnyvale, CA, US | 14 |
 | San Jose, CA | 11 |
 | Austin, TX | 10 |
+| Seattle, WA | 9 |
 | Santa Clara, CA, US | 9 |
-| Palo Alto, CA | 9 |
 
 ### Recently Added Positions
+- Software Engineer Internship - Tysons, VA @ Alarm.com (Tysons Corner, VA)
+- Software Engineering Intern, Arene SDK @ Woven by Toyota (Ann Arbor, MI)
 - Software Developer Intern (Summer Internship Program) @ CGI (Lebanon, VA)
 - Engineering Intern @ EnergyHub (Brooklyn, NY)
 - IT Software Engineer - Intern @ Murphy USA (El Dorado, AR)
-- AI/ML Intern (Remote in Utah) @ Rocket Lawyer (Utah, United States)
-- AI/ML Intern (Remote in North Carolina) @ Rocket Lawyer (North Carolina, United States)
 
 ### Job Types
 - Full-time positions: 114
