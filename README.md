@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-03-31 18:01 UTC*
+*Last updated: 2025-04-01 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 3
-- 💼 Total jobs in database: 721
+- 📊 New jobs added: 26
+- 💼 Total jobs in database: 747
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,39 +11,39 @@
 |---------|---------------|
 | RippleMatch | 33 |
 | NetApp | 18 |
+| University of Nevada, Reno | 13 |
 | CGI | 12 |
-| Rivian | 11 |
 | Uline | 11 |
+| Rivian | 11 |
 | Rocket Lawyer | 10 |
-| Garmin | 9 |
-| Childhood Cancer Society | 9 |
 | Intuit | 9 |
-| Rockwell Automation | 8 |
+| Childhood Cancer Society | 9 |
+| Garmin | 9 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | New York, NY | 23 |
+| San Francisco, CA | 20 |
 | Remote, US | 20 |
-| San Francisco, CA | 19 |
 | San Mateo, CA | 15 |
-| Palo Alto, CA, US | 14 |
 | Sunnyvale, CA, US | 14 |
-| San Jose, CA | 11 |
+| Reno, NV, US | 14 |
+| Palo Alto, CA, US | 14 |
+| San Jose, CA | 12 |
 | Austin, TX | 10 |
-| Santa Clara, CA, US | 9 |
-| Austin, TX, US | 9 |
+| Seattle, WA | 9 |
 
 ### Recently Added Positions
-- Engineer (New Grad) @ NimbleRx (Redwood City, CA)
-- Intern, Software Developer - June 2025 @ Avanade (Chicago, IL, US)
-- Software Engineering Intern (Remote in California) @ Rocket Lawyer (California, United States)
-- Software Engineering Intern @ FDR Financial Group (Remote, US)
-- Software Developer Intern (Summer Internship Program) @ CGI (Atlanta, GA)
+- Entry Level Software Engineer @ Amentum (Dahlgren, VA, US)
+- Entry Level Software Engineer @ Amentum (Dahlgren, VA, US)
+- Student Worker- ASUN Director of Programming @ University of Nevada, Reno (Reno, NV, US)
+- Student Worker- ASUN Programmer @ University of Nevada, Reno (Reno, NV, US)
+- Student Worker- ASUN Assistant Director of Programming @ University of Nevada, Reno (Reno, NV, US)
 
 ### Job Types
-- Full-time positions: 115
-- Internships: 107
+- Full-time positions: 122
+- Internships: 108
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
