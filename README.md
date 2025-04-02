@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-02 06:01 UTC*
+*Last updated: 2025-04-02 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 5
-- 💼 Total jobs in database: 788
+- 📊 New jobs added: 3
+- 💼 Total jobs in database: 791
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -12,8 +12,8 @@
 | RippleMatch | 34 |
 | NetApp | 18 |
 | CGI | 15 |
-| University of Nevada, Reno | 14 |
 | Rocket Lawyer | 14 |
+| University of Nevada, Reno | 14 |
 | Uline | 11 |
 | Rivian | 11 |
 | Garmin | 9 |
@@ -26,20 +26,20 @@
 | New York, NY | 25 |
 | Remote, US | 21 |
 | San Francisco, CA | 20 |
-| Reno, NV, US | 15 |
 | San Mateo, CA | 15 |
+| Reno, NV, US | 15 |
 | Palo Alto, CA, US | 14 |
 | Sunnyvale, CA, US | 14 |
 | San Jose, CA | 13 |
 | Santa Clara, CA, US | 11 |
-| Austin, TX | 10 |
+| Mountain View, CA | 10 |
 
 ### Recently Added Positions
+- Software Engineering Intern @ Age of Learning (Glendale, CA, US)
+- Software Engineering Intern @ Lensa (St Paul, MN)
+- Software Developer Intern - Corporate Systems @ Artisan Partners (Milwaukee, WI)
 - Entry Level Software Engineer @ Amentum (Dahlgren, VA)
 - Software Developer Intern - Corporate Systems @ Artisan Partners (Milwaukee, WI, US)
-- Simulator Software Engineering Intern @ nan (Beaver Valley, WA, US)
-- Intern - Software Engineer @ Pearson (Durham, NC, US)
-- Software Engineering Intern @ Spectral MD (Dallas, TX, US)
 
 ### Job Types
 - Full-time positions: 129
