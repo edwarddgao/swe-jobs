@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-02 00:01 UTC*
+*Last updated: 2025-04-02 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 9
-- 💼 Total jobs in database: 783
+- 📊 New jobs added: 5
+- 💼 Total jobs in database: 788
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -16,8 +16,8 @@
 | Rocket Lawyer | 14 |
 | Uline | 11 |
 | Rivian | 11 |
-| Childhood Cancer Society | 9 |
 | Garmin | 9 |
+| Childhood Cancer Society | 9 |
 | Intuit | 9 |
 
 ### Top Locations
@@ -28,22 +28,22 @@
 | San Francisco, CA | 20 |
 | Reno, NV, US | 15 |
 | San Mateo, CA | 15 |
-| Sunnyvale, CA, US | 14 |
 | Palo Alto, CA, US | 14 |
+| Sunnyvale, CA, US | 14 |
 | San Jose, CA | 13 |
 | Santa Clara, CA, US | 11 |
-| Mountain View, CA | 10 |
+| Austin, TX | 10 |
 
 ### Recently Added Positions
-- Senior Software Engineer II @ Risk Solutions (Alpharetta, GA, US)
-- Entry Level Software Engineer @ Lockheed Martin (Colorado Springs, CO, US)
-- Entry Level Software Engineer @ Capstone Research Corporation (Huntsville, AL)
-- API Engineering Intern @ Guidewire Software, Inc. (Philadelphia, PA, US)
-- Software Engineer Intern @ Onto Innovation (Budd Lake, NJ, US)
+- Entry Level Software Engineer @ Amentum (Dahlgren, VA)
+- Software Developer Intern - Corporate Systems @ Artisan Partners (Milwaukee, WI, US)
+- Simulator Software Engineering Intern @ nan (Beaver Valley, WA, US)
+- Intern - Software Engineer @ Pearson (Durham, NC, US)
+- Software Engineering Intern @ Spectral MD (Dallas, TX, US)
 
 ### Job Types
-- Full-time positions: 128
-- Internships: 108
+- Full-time positions: 129
+- Internships: 110
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
