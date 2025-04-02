@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-01 18:01 UTC*
+*Last updated: 2025-04-02 00:01 UTC*
 
 ### Overview
 - 📊 New jobs added: 9
-- 💼 Total jobs in database: 774
+- 💼 Total jobs in database: 783
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -12,13 +12,13 @@
 | RippleMatch | 34 |
 | NetApp | 18 |
 | CGI | 15 |
-| Rocket Lawyer | 14 |
 | University of Nevada, Reno | 14 |
+| Rocket Lawyer | 14 |
 | Uline | 11 |
 | Rivian | 11 |
+| Childhood Cancer Society | 9 |
 | Garmin | 9 |
 | Intuit | 9 |
-| Childhood Cancer Society | 9 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -35,14 +35,14 @@
 | Mountain View, CA | 10 |
 
 ### Recently Added Positions
-- Software Engineering Intern @ nan (Remote, US)
-- Software Developer Intern (Summer Internship Program) @ CGI (Westerville, OH)
-- Software Developer Intern (Summer Internship Program) @ CGI (Knoxville, TN)
-- Software Developer Intern (Summer Internship Program) @ CGI (Belton, TX)
-- Software Engineering Intern - Analytics @ Talcott Financial Group (nan)
+- Senior Software Engineer II @ Risk Solutions (Alpharetta, GA, US)
+- Entry Level Software Engineer @ Lockheed Martin (Colorado Springs, CO, US)
+- Entry Level Software Engineer @ Capstone Research Corporation (Huntsville, AL)
+- API Engineering Intern @ Guidewire Software, Inc. (Philadelphia, PA, US)
+- Software Engineer Intern @ Onto Innovation (Budd Lake, NJ, US)
 
 ### Job Types
-- Full-time positions: 125
+- Full-time positions: 128
 - Internships: 108
 
 ## Contributing
