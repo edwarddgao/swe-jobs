@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-03 12:01 UTC*
+*Last updated: 2025-04-03 18:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 10
-- 💼 Total jobs in database: 837
+- 📊 New jobs added: 6
+- 💼 Total jobs in database: 843
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -18,7 +18,7 @@
 | Uline | 11 |
 | Rivian | 11 |
 | Garmin | 10 |
-| General Dynamics Mission Systems | 9 |
+| Childhood Cancer Society | 9 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -27,19 +27,19 @@
 | New York, NY | 25 |
 | Remote, US | 22 |
 | San Francisco, CA | 20 |
-| San Mateo, CA | 15 |
+| San Mateo, CA | 16 |
 | Sunnyvale, CA, US | 14 |
 | Palo Alto, CA, US | 14 |
 | San Jose, CA | 13 |
 | Santa Clara, CA, US | 11 |
-| Palo Alto, CA | 10 |
+| Austin, TX | 11 |
 
 ### Recently Added Positions
-- Entry Level Software Engineer (DevOps)– CI/CD, Cloud/Virtual Infrastructure, Hardware, Product Security @ Talentify.io (nan)
-- Software Engineering Intern - Mobile iOS (Swift/SwiftUI) @ Garmin (Chandler, AZ, US)
-- Software Engineer Intern @ Framatome (Richland, WA, US)
-- Software Engineering Intern, Arene Tools @ Woven by Toyota (Ann Arbor, MI)
-- Software Developer Intern (Summer Internship Program) @ CGI (Chattanooga, TN)
+- Student Intern, Infectious Diseases Research (Syndemics Lab) @ Boston Medical Center (Boston, MA, US)
+- Software Developer Intern @ Citadel Completions LLC (Lake Charles, LA)
+- Software Engineering Intern @ Age of Learning (Glendale, CA)
+- Software Engineering Intern, Mobile - 2025 @ Verkada (San Mateo, CA)
+- Software Engineering Intern @ Favor Delivery (Austin, TX)
 
 ### Job Types
 - Full-time positions: 135
