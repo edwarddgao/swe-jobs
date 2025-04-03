@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-03 06:01 UTC*
+*Last updated: 2025-04-03 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 7
-- 💼 Total jobs in database: 827
+- 📊 New jobs added: 10
+- 💼 Total jobs in database: 837
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -12,13 +12,13 @@
 | RippleMatch | 34 |
 | University of Nevada, Reno | 27 |
 | NetApp | 18 |
-| CGI | 15 |
+| CGI | 16 |
 | Rocket Lawyer | 14 |
-| Rivian | 11 |
+| Lensa | 12 |
 | Uline | 11 |
-| Amentum | 9 |
+| Rivian | 11 |
+| Garmin | 10 |
 | General Dynamics Mission Systems | 9 |
-| Childhood Cancer Society | 9 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -28,22 +28,22 @@
 | Remote, US | 22 |
 | San Francisco, CA | 20 |
 | San Mateo, CA | 15 |
-| Palo Alto, CA, US | 14 |
 | Sunnyvale, CA, US | 14 |
+| Palo Alto, CA, US | 14 |
 | San Jose, CA | 13 |
 | Santa Clara, CA, US | 11 |
-| Dallas, TX | 10 |
+| Palo Alto, CA | 10 |
 
 ### Recently Added Positions
-- Student Worker - Undergraduate Consultant, University Writing & Speaking Center @ University of Nevada, Reno (Reno, NV, US)
-- Student Worker - Reading & Writing Lab Facilitator, University Writing & Speaking Center @ University of Nevada, Reno (Reno, NV, US)
-- Student Worker - Front Desk, University Writing & Speaking Center @ University of Nevada, Reno (Reno, NV, US)
-- Student Worker - Graduate Consultant, University Writing & Speaking Center @ University of Nevada, Reno (Reno, NV, US)
-- Software Engineer (New Grad) @ Layup Parts (Huntington Beach, CA)
+- Entry Level Software Engineer (DevOps)– CI/CD, Cloud/Virtual Infrastructure, Hardware, Product Security @ Talentify.io (nan)
+- Software Engineering Intern - Mobile iOS (Swift/SwiftUI) @ Garmin (Chandler, AZ, US)
+- Software Engineer Intern @ Framatome (Richland, WA, US)
+- Software Engineering Intern, Arene Tools @ Woven by Toyota (Ann Arbor, MI)
+- Software Developer Intern (Summer Internship Program) @ CGI (Chattanooga, TN)
 
 ### Job Types
 - Full-time positions: 135
-- Internships: 113
+- Internships: 115
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
