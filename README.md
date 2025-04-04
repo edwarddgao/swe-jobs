@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-04 06:01 UTC*
+*Last updated: 2025-04-04 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 7
-- 💼 Total jobs in database: 872
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 873
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -16,9 +16,9 @@
 | Lensa | 15 |
 | Rocket Lawyer | 14 |
 | Rivian | 11 |
-| Uline | 11 |
 | Garmin | 11 |
-| Intuit | 9 |
+| Uline | 11 |
+| Scale AI | 9 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -27,7 +27,7 @@
 | New York, NY | 26 |
 | Remote, US | 23 |
 | San Francisco, CA | 21 |
-| San Mateo, CA | 16 |
+| San Mateo, CA | 17 |
 | San Jose, CA | 14 |
 | Palo Alto, CA, US | 14 |
 | Sunnyvale, CA, US | 14 |
@@ -35,11 +35,11 @@
 | Dallas, TX | 11 |
 
 ### Recently Added Positions
+- Software Engineering Intern, Frontend - Fall 2025 @ Verkada (San Mateo, CA)
 - Community Based Instructor 3 - SNAP-Ed, Washoe County Extension ( Part-time ) @ University of Nevada, Reno (Reno, NV, US)
 - Intern - Hourly @ Pluralsight (Remote, US)
 - Summer Lab Intern (Software & Hardware Prototyping) @ DUST Identity (Newton, MA, US)
 - Wireless AI Software Engineering Intern @ Intel Corporation (Shanghai, VA)
-- Software Engineering Intern (MECOP) @ Garmin (Salem, OR)
 
 ### Job Types
 - Full-time positions: 137
