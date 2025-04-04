@@ -1,48 +1,48 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-04 00:01 UTC*
+*Last updated: 2025-04-04 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 22
-- 💼 Total jobs in database: 865
+- 📊 New jobs added: 7
+- 💼 Total jobs in database: 872
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
 | RippleMatch | 47 |
-| University of Nevada, Reno | 27 |
+| University of Nevada, Reno | 28 |
 | NetApp | 18 |
 | CGI | 16 |
-| Lensa | 14 |
+| Lensa | 15 |
 | Rocket Lawyer | 14 |
-| Uline | 11 |
 | Rivian | 11 |
-| Garmin | 10 |
-| Childhood Cancer Society | 9 |
+| Uline | 11 |
+| Garmin | 11 |
+| Intuit | 9 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| Reno, NV, US | 28 |
+| Reno, NV, US | 29 |
 | New York, NY | 26 |
-| Remote, US | 22 |
+| Remote, US | 23 |
 | San Francisco, CA | 21 |
 | San Mateo, CA | 16 |
-| Palo Alto, CA, US | 14 |
 | San Jose, CA | 14 |
+| Palo Alto, CA, US | 14 |
 | Sunnyvale, CA, US | 14 |
 | Austin, TX | 12 |
 | Dallas, TX | 11 |
 
 ### Recently Added Positions
-- Software Engineer 1 -22858 @ HII (Pocasset, MA, US)
-- Software Engineer Public Sector - New Grad @ Scale AI (nan)
-- Software Engineer Public Sector - New Grad @ Scale AI (nan)
-- Software Engineer Public Sector - New Grad @ Scale AI (Washington, DC)
-- Software Engineer Public Sector - New Grad @ Scale AI (St Louis, MO)
+- Community Based Instructor 3 - SNAP-Ed, Washoe County Extension ( Part-time ) @ University of Nevada, Reno (Reno, NV, US)
+- Intern - Hourly @ Pluralsight (Remote, US)
+- Summer Lab Intern (Software & Hardware Prototyping) @ DUST Identity (Newton, MA, US)
+- Wireless AI Software Engineering Intern @ Intel Corporation (Shanghai, VA)
+- Software Engineering Intern (MECOP) @ Garmin (Salem, OR)
 
 ### Job Types
-- Full-time positions: 136
+- Full-time positions: 137
 - Internships: 116
 
 ## Contributing
