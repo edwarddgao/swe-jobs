@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-04 12:01 UTC*
+*Last updated: 2025-04-04 18:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 1
-- 💼 Total jobs in database: 873
+- 📊 New jobs added: 4
+- 💼 Total jobs in database: 877
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -12,13 +12,13 @@
 | RippleMatch | 47 |
 | University of Nevada, Reno | 28 |
 | NetApp | 18 |
+| Lensa | 16 |
 | CGI | 16 |
-| Lensa | 15 |
 | Rocket Lawyer | 14 |
 | Rivian | 11 |
-| Garmin | 11 |
 | Uline | 11 |
-| Scale AI | 9 |
+| Garmin | 11 |
+| Intuit | 9 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -29,17 +29,17 @@
 | San Francisco, CA | 21 |
 | San Mateo, CA | 17 |
 | San Jose, CA | 14 |
-| Palo Alto, CA, US | 14 |
 | Sunnyvale, CA, US | 14 |
+| Palo Alto, CA, US | 14 |
 | Austin, TX | 12 |
 | Dallas, TX | 11 |
 
 ### Recently Added Positions
+- New Grad! Software Developer @ Laveer Engineering (Cranberry Township, PA)
+- Software Developer Intern @ Savance (Walled Lake, MI)
+- Software Engineering Intern - Summer 2025 @ Lensa (Morrisville, NC)
+- Software Engineering Intern @ Alarm.com (Tysons Corner, VA)
 - Software Engineering Intern, Frontend - Fall 2025 @ Verkada (San Mateo, CA)
-- Community Based Instructor 3 - SNAP-Ed, Washoe County Extension ( Part-time ) @ University of Nevada, Reno (Reno, NV, US)
-- Intern - Hourly @ Pluralsight (Remote, US)
-- Summer Lab Intern (Software & Hardware Prototyping) @ DUST Identity (Newton, MA, US)
-- Wireless AI Software Engineering Intern @ Intel Corporation (Shanghai, VA)
 
 ### Job Types
 - Full-time positions: 137
