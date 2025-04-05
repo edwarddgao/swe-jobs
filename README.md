@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-05 06:01 UTC*
+*Last updated: 2025-04-05 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 9
-- 💼 Total jobs in database: 900
+- 📊 New jobs added: 8
+- 💼 Total jobs in database: 908
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -15,35 +15,35 @@
 | NetApp | 18 |
 | CGI | 16 |
 | Rocket Lawyer | 14 |
+| Uline | 11 |
 | Rivian | 11 |
 | Garmin | 11 |
-| Uline | 11 |
-| Scale AI | 9 |
+| Amentum | 9 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
 | Reno, NV, US | 31 |
-| Remote, US | 26 |
 | New York, NY | 26 |
-| San Francisco, CA | 21 |
+| Remote, US | 26 |
+| San Francisco, CA | 22 |
 | San Mateo, CA | 17 |
-| San Jose, CA | 14 |
 | Palo Alto, CA, US | 14 |
+| San Jose, CA | 14 |
 | Sunnyvale, CA, US | 14 |
 | Austin, TX | 12 |
-| Dallas, TX | 11 |
+| Mountain View, CA | 11 |
 
 ### Recently Added Positions
-- Coordinator, Recruitment, Strategy & Community Engagement @ University of Nevada, Reno (Reno, NV, US)
-- Software Engineer Intern @ Kalthia Group Hotels (nan)
-- Software Engineer Intern @ Kalthia Group Hotels (Remote, US)
-- Software Engineering Intern @ Boston Scientific (Arden Hills, MN, US)
-- Software Engineer Intern @ AMPURE CHARGING SYSTEMS INC (Monrovia, CA, US)
+- Embedded Software Engineer I (Onsite) @ Collins Aerospace (Cedar Rapids, IA, US)
+- Software Engineer (New Grad) @ Codeium (Mountain View, CA)
+- New Grad Software Engineer @ Vapi (San Francisco, CA)
+- Software Engineering Intern, Information Technology @ ServiceLink (Irving, TX)
+- Software Engineering Intern, Information Technology @ ServiceLink (Irving, TX, US)
 
 ### Job Types
-- Full-time positions: 138
-- Internships: 123
+- Full-time positions: 139
+- Internships: 125
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
