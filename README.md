@@ -1,49 +1,49 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-04 18:01 UTC*
+*Last updated: 2025-04-05 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 4
-- 💼 Total jobs in database: 877
+- 📊 New jobs added: 14
+- 💼 Total jobs in database: 891
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
-| RippleMatch | 47 |
-| University of Nevada, Reno | 28 |
+| RippleMatch | 50 |
+| University of Nevada, Reno | 29 |
+| Lensa | 18 |
 | NetApp | 18 |
-| Lensa | 16 |
 | CGI | 16 |
 | Rocket Lawyer | 14 |
-| Rivian | 11 |
 | Uline | 11 |
+| Rivian | 11 |
 | Garmin | 11 |
-| Intuit | 9 |
+| Childhood Cancer Society | 9 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| Reno, NV, US | 29 |
+| Reno, NV, US | 30 |
 | New York, NY | 26 |
-| Remote, US | 23 |
+| Remote, US | 25 |
 | San Francisco, CA | 21 |
 | San Mateo, CA | 17 |
-| San Jose, CA | 14 |
 | Sunnyvale, CA, US | 14 |
 | Palo Alto, CA, US | 14 |
+| San Jose, CA | 14 |
 | Austin, TX | 12 |
-| Dallas, TX | 11 |
+| Santa Clara, CA, US | 11 |
 
 ### Recently Added Positions
-- New Grad! Software Developer @ Laveer Engineering (Cranberry Township, PA)
-- Software Developer Intern @ Savance (Walled Lake, MI)
-- Software Engineering Intern - Summer 2025 @ Lensa (Morrisville, NC)
-- Software Engineering Intern @ Alarm.com (Tysons Corner, VA)
-- Software Engineering Intern, Frontend - Fall 2025 @ Verkada (San Mateo, CA)
+- Student Worker - ASUN Senator, College of Engineering @ University of Nevada, Reno (Reno, NV, US)
+- Software Engineering Intern @ RippleMatch (nan)
+- Software Engineering Intern @ RippleMatch (Remote, US)
+- Software Engineering Intern @ RippleMatch (Remote, US)
+- Software Engineer Intern @ Ampure (Monrovia, CA)
 
 ### Job Types
 - Full-time positions: 137
-- Internships: 116
+- Internships: 118
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
