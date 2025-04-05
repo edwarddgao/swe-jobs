@@ -1,49 +1,49 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-05 00:01 UTC*
+*Last updated: 2025-04-05 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 14
-- 💼 Total jobs in database: 891
+- 📊 New jobs added: 9
+- 💼 Total jobs in database: 900
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
 | RippleMatch | 50 |
-| University of Nevada, Reno | 29 |
-| Lensa | 18 |
+| University of Nevada, Reno | 30 |
+| Lensa | 20 |
 | NetApp | 18 |
 | CGI | 16 |
 | Rocket Lawyer | 14 |
-| Uline | 11 |
 | Rivian | 11 |
 | Garmin | 11 |
-| Childhood Cancer Society | 9 |
+| Uline | 11 |
+| Scale AI | 9 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| Reno, NV, US | 30 |
+| Reno, NV, US | 31 |
+| Remote, US | 26 |
 | New York, NY | 26 |
-| Remote, US | 25 |
 | San Francisco, CA | 21 |
 | San Mateo, CA | 17 |
-| Sunnyvale, CA, US | 14 |
-| Palo Alto, CA, US | 14 |
 | San Jose, CA | 14 |
+| Palo Alto, CA, US | 14 |
+| Sunnyvale, CA, US | 14 |
 | Austin, TX | 12 |
-| Santa Clara, CA, US | 11 |
+| Dallas, TX | 11 |
 
 ### Recently Added Positions
-- Student Worker - ASUN Senator, College of Engineering @ University of Nevada, Reno (Reno, NV, US)
-- Software Engineering Intern @ RippleMatch (nan)
-- Software Engineering Intern @ RippleMatch (Remote, US)
-- Software Engineering Intern @ RippleMatch (Remote, US)
-- Software Engineer Intern @ Ampure (Monrovia, CA)
+- Coordinator, Recruitment, Strategy & Community Engagement @ University of Nevada, Reno (Reno, NV, US)
+- Software Engineer Intern @ Kalthia Group Hotels (nan)
+- Software Engineer Intern @ Kalthia Group Hotels (Remote, US)
+- Software Engineering Intern @ Boston Scientific (Arden Hills, MN, US)
+- Software Engineer Intern @ AMPURE CHARGING SYSTEMS INC (Monrovia, CA, US)
 
 ### Job Types
-- Full-time positions: 137
-- Internships: 118
+- Full-time positions: 138
+- Internships: 123
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
