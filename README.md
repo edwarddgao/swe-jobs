@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-05 12:01 UTC*
+*Last updated: 2025-04-05 18:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 8
-- 💼 Total jobs in database: 908
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 909
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -15,9 +15,9 @@
 | NetApp | 18 |
 | CGI | 16 |
 | Rocket Lawyer | 14 |
-| Uline | 11 |
 | Rivian | 11 |
 | Garmin | 11 |
+| Uline | 11 |
 | Amentum | 9 |
 
 ### Top Locations
@@ -35,11 +35,11 @@
 | Mountain View, CA | 11 |
 
 ### Recently Added Positions
+- Software Engineering Intern @ WEX Corporate Payments (nan)
 - Embedded Software Engineer I (Onsite) @ Collins Aerospace (Cedar Rapids, IA, US)
 - Software Engineer (New Grad) @ Codeium (Mountain View, CA)
 - New Grad Software Engineer @ Vapi (San Francisco, CA)
 - Software Engineering Intern, Information Technology @ ServiceLink (Irving, TX)
-- Software Engineering Intern, Information Technology @ ServiceLink (Irving, TX, US)
 
 ### Job Types
 - Full-time positions: 139
