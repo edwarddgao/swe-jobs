@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-06 00:01 UTC*
+*Last updated: 2025-04-06 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 6
-- 💼 Total jobs in database: 915
+- 📊 New jobs added: 3
+- 💼 Total jobs in database: 918
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -15,10 +15,10 @@
 | NetApp | 18 |
 | CGI | 16 |
 | Rocket Lawyer | 14 |
-| Rivian | 11 |
 | Garmin | 11 |
+| Rivian | 11 |
 | Uline | 11 |
-| General Dynamics Mission Systems | 9 |
+| TieTalent | 10 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -35,11 +35,11 @@
 | Santa Clara, CA, US | 11 |
 
 ### Recently Added Positions
+- Intern - CP (Freire) @ J. Craig Venter Institute (San Diego, CA)
+- QA Engineering Intern (Remote in Arizona) @ TieTalent (Arizona, United States)
+- Summer 2025 Robotics Software Engineering Intern @ Astrolab (Hawthorne, CA)
 - Digital Technologies Internship/Co-op Fall 2025 / stage/coop en technologies numériques automne 2025 @ PGBPGNGLOBAL (Toronto, ON)
 - Software Engineering Intern @ Lensa (Horsham, PA)
-- Software Engineering Intern @ TieTalent (Massachusetts, United States)
-- Software Engineering Intern @ TieTalent (Utah, United States)
-- Software Engineering Intern @ TieTalent (Arkansas, United States)
 
 ### Job Types
 - Full-time positions: 139
