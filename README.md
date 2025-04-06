@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-05 18:01 UTC*
+*Last updated: 2025-04-06 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 1
-- 💼 Total jobs in database: 909
+- 📊 New jobs added: 6
+- 💼 Total jobs in database: 915
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,14 +11,14 @@
 |---------|---------------|
 | RippleMatch | 50 |
 | University of Nevada, Reno | 30 |
-| Lensa | 20 |
+| Lensa | 21 |
 | NetApp | 18 |
 | CGI | 16 |
 | Rocket Lawyer | 14 |
 | Rivian | 11 |
 | Garmin | 11 |
 | Uline | 11 |
-| Amentum | 9 |
+| General Dynamics Mission Systems | 9 |
 
 ### Top Locations
 | Location | Number of Jobs |
@@ -28,18 +28,18 @@
 | Remote, US | 26 |
 | San Francisco, CA | 22 |
 | San Mateo, CA | 17 |
-| Palo Alto, CA, US | 14 |
-| San Jose, CA | 14 |
 | Sunnyvale, CA, US | 14 |
+| San Jose, CA | 14 |
+| Palo Alto, CA, US | 14 |
 | Austin, TX | 12 |
-| Mountain View, CA | 11 |
+| Santa Clara, CA, US | 11 |
 
 ### Recently Added Positions
-- Software Engineering Intern @ WEX Corporate Payments (nan)
-- Embedded Software Engineer I (Onsite) @ Collins Aerospace (Cedar Rapids, IA, US)
-- Software Engineer (New Grad) @ Codeium (Mountain View, CA)
-- New Grad Software Engineer @ Vapi (San Francisco, CA)
-- Software Engineering Intern, Information Technology @ ServiceLink (Irving, TX)
+- Digital Technologies Internship/Co-op Fall 2025 / stage/coop en technologies numériques automne 2025 @ PGBPGNGLOBAL (Toronto, ON)
+- Software Engineering Intern @ Lensa (Horsham, PA)
+- Software Engineering Intern @ TieTalent (Massachusetts, United States)
+- Software Engineering Intern @ TieTalent (Utah, United States)
+- Software Engineering Intern @ TieTalent (Arkansas, United States)
 
 ### Job Types
 - Full-time positions: 139
