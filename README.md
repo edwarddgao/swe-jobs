@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-06 06:01 UTC*
+*Last updated: 2025-04-06 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 3
-- 💼 Total jobs in database: 918
+- 📊 New jobs added: 4
+- 💼 Total jobs in database: 922
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -15,8 +15,8 @@
 | NetApp | 18 |
 | CGI | 16 |
 | Rocket Lawyer | 14 |
-| Garmin | 11 |
 | Rivian | 11 |
+| Garmin | 11 |
 | Uline | 11 |
 | TieTalent | 10 |
 
@@ -26,20 +26,20 @@
 | Reno, NV, US | 31 |
 | New York, NY | 26 |
 | Remote, US | 26 |
-| San Francisco, CA | 22 |
+| San Francisco, CA | 23 |
 | San Mateo, CA | 17 |
-| Sunnyvale, CA, US | 14 |
-| San Jose, CA | 14 |
+| San Jose, CA | 15 |
 | Palo Alto, CA, US | 14 |
+| Sunnyvale, CA, US | 14 |
 | Austin, TX | 12 |
-| Santa Clara, CA, US | 11 |
+| Dallas, TX | 11 |
 
 ### Recently Added Positions
+- Software Engineer, New Grad (Dec 2024 Only) @ Replo (San Francisco, CA)
+- Software Engineer Internship - Lawrence, KS @ PointCentral (Lawrence, KS)
+- Intern, Software Engineer, Test Hardware Engineering @ Ayar Labs (San Jose, CA)
+- Software Engineering Intern @ Granite Telecommunications (Quincy, MA)
 - Intern - CP (Freire) @ J. Craig Venter Institute (San Diego, CA)
-- QA Engineering Intern (Remote in Arizona) @ TieTalent (Arizona, United States)
-- Summer 2025 Robotics Software Engineering Intern @ Astrolab (Hawthorne, CA)
-- Digital Technologies Internship/Co-op Fall 2025 / stage/coop en technologies numériques automne 2025 @ PGBPGNGLOBAL (Toronto, ON)
-- Software Engineering Intern @ Lensa (Horsham, PA)
 
 ### Job Types
 - Full-time positions: 139
