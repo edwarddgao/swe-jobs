@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-06 12:01 UTC*
+*Last updated: 2025-04-07 06:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 4
-- 💼 Total jobs in database: 922
+- 📊 New jobs added: 1
+- 💼 Total jobs in database: 923
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,7 +11,7 @@
 |---------|---------------|
 | RippleMatch | 50 |
 | University of Nevada, Reno | 30 |
-| Lensa | 21 |
+| Lensa | 22 |
 | NetApp | 18 |
 | CGI | 16 |
 | Rocket Lawyer | 14 |
@@ -35,11 +35,11 @@
 | Dallas, TX | 11 |
 
 ### Recently Added Positions
+- Software Engineering Intern @ Lensa (Horsham, PA)
 - Software Engineer, New Grad (Dec 2024 Only) @ Replo (San Francisco, CA)
 - Software Engineer Internship - Lawrence, KS @ PointCentral (Lawrence, KS)
 - Intern, Software Engineer, Test Hardware Engineering @ Ayar Labs (San Jose, CA)
 - Software Engineering Intern @ Granite Telecommunications (Quincy, MA)
-- Intern - CP (Freire) @ J. Craig Venter Institute (San Diego, CA)
 
 ### Job Types
 - Full-time positions: 139
