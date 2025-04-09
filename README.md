@@ -1,48 +1,48 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-09 00:01 UTC*
+*Last updated: 2025-04-09 06:01 UTC*
 
 ### Overview
 - 📊 New jobs added: 13
-- 💼 Total jobs in database: 956
+- 💼 Total jobs in database: 969
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
 | RippleMatch | 50 |
-| University of Nevada, Reno | 32 |
-| Lensa | 26 |
+| University of Nevada, Reno | 34 |
+| Lensa | 28 |
 | NetApp | 18 |
 | CGI | 16 |
 | Rocket Lawyer | 14 |
-| Garmin | 11 |
-| Amentum | 11 |
-| Uline | 11 |
+| Garmin | 12 |
 | Rivian | 11 |
+| Uline | 11 |
+| Amentum | 11 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| Reno, NV, US | 33 |
-| Remote, US | 27 |
+| Reno, NV, US | 35 |
+| Remote, US | 28 |
 | New York, NY | 27 |
 | San Francisco, CA | 23 |
-| Sunnyvale, CA, US | 17 |
+| Sunnyvale, CA, US | 18 |
 | San Mateo, CA | 17 |
 | San Jose, CA | 15 |
 | Palo Alto, CA, US | 14 |
 | Austin, TX | 12 |
-| Mountain View, CA | 11 |
+| Austin, TX, US | 11 |
 
 ### Recently Added Positions
-- New Grad - Software Engineer @ Credit Genie (New York, NY)
-- Entry-Level Software Engineer @ My Peoples Card (nan)
-- Software Engineering Intern @ Olive (nan)
-- University, Software Developer Intern @ Booz Allen Hamilton (McLean, VA, US)
-- University, Software Developer Intern @ Booz Allen Hamilton (McLean, VA, US)
+- Program Officer 2 - Washoe County Extension SNAP-Ed @ University of Nevada, Reno (Reno, NV, US)
+- Manager, Mining Engineering Laboratories @ University of Nevada, Reno (Reno, NV, US)
+- Software Engineer I @ AP Wireless Infrastructure Partners LLC (La Jolla, CA, US)
+- Software Engineer (New Grad), Search Feed @ Airbnb (nan)
+- Software Engineering Intern, Cloud Platform @ Calix (nan)
 
 ### Job Types
-- Full-time positions: 145
+- Full-time positions: 149
 - Internships: 130
 
 ## Contributing
