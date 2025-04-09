@@ -1,9 +1,9 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-09 06:01 UTC*
+*Last updated: 2025-04-09 12:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 13
-- 💼 Total jobs in database: 969
+- 📊 New jobs added: 4
+- 💼 Total jobs in database: 973
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
@@ -11,13 +11,13 @@
 |---------|---------------|
 | RippleMatch | 50 |
 | University of Nevada, Reno | 34 |
-| Lensa | 28 |
+| Lensa | 29 |
 | NetApp | 18 |
 | CGI | 16 |
 | Rocket Lawyer | 14 |
 | Garmin | 12 |
-| Rivian | 11 |
 | Uline | 11 |
+| Rivian | 11 |
 | Amentum | 11 |
 
 ### Top Locations
@@ -31,19 +31,19 @@
 | San Mateo, CA | 17 |
 | San Jose, CA | 15 |
 | Palo Alto, CA, US | 14 |
-| Austin, TX | 12 |
-| Austin, TX, US | 11 |
+| Austin, TX | 13 |
+| Dallas, TX | 11 |
 
 ### Recently Added Positions
+- Software Engineering Intern Level C (Alpharetta, GA) @ L3Harris (Alpharetta, GA, US)
+- Software Engineering Intern Level D (Alpharetta, GA) @ L3Harris (Alpharetta, GA, US)
+- Software Engineering Intern @ Base Power Company (Austin, TX)
+- Software Engineering Intern @ Lensa (Hartford, CT)
 - Program Officer 2 - Washoe County Extension SNAP-Ed @ University of Nevada, Reno (Reno, NV, US)
-- Manager, Mining Engineering Laboratories @ University of Nevada, Reno (Reno, NV, US)
-- Software Engineer I @ AP Wireless Infrastructure Partners LLC (La Jolla, CA, US)
-- Software Engineer (New Grad), Search Feed @ Airbnb (nan)
-- Software Engineering Intern, Cloud Platform @ Calix (nan)
 
 ### Job Types
 - Full-time positions: 149
-- Internships: 130
+- Internships: 132
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
