@@ -1,30 +1,30 @@
 # Latest Software Engineering Jobs
-*Last updated: 2025-04-09 18:01 UTC*
+*Last updated: 2025-04-10 00:01 UTC*
 
 ### Overview
-- 📊 New jobs added: 5
-- 💼 Total jobs in database: 978
+- 📊 New jobs added: 14
+- 💼 Total jobs in database: 992
 - 🔍 Job sources: Indeed, LinkedIn, ZipRecruiter, Glassdoor, Google Jobs
 
 ### Top Hiring Companies
 | Company | Open Positions |
 |---------|---------------|
 | RippleMatch | 50 |
-| University of Nevada, Reno | 34 |
+| University of Nevada, Reno | 36 |
 | Lensa | 29 |
 | NetApp | 18 |
 | CGI | 16 |
+| Amentum | 15 |
 | Rocket Lawyer | 14 |
 | Garmin | 12 |
-| Amentum | 11 |
 | Uline | 11 |
 | Rivian | 11 |
 
 ### Top Locations
 | Location | Number of Jobs |
 |----------|---------------|
-| Reno, NV, US | 35 |
-| Remote, US | 28 |
+| Reno, NV, US | 37 |
+| Remote, US | 29 |
 | New York, NY | 27 |
 | San Francisco, CA | 23 |
 | Sunnyvale, CA, US | 18 |
@@ -32,18 +32,18 @@
 | San Jose, CA | 15 |
 | Palo Alto, CA, US | 14 |
 | Austin, TX | 13 |
-| Austin, TX, US | 11 |
+| Mountain View, CA | 11 |
 
 ### Recently Added Positions
-- Software Engineering Intern @ AMETEK (Herndon, VA, US)
-- Software Engineering Intern @ AMETEK (Atlanta, GA, US)
-- Software Development Intern @ nan (Carlisle, PA, US)
-- Software Engineering Internship @ Emerson (Marshalltown, IA, US)
-- Internship, Fullstack Engineer, Cell Manufacturing Software (Fall 2025) @ Tesla (Fremont, CA)
+- Entry Level Software Engineer @ Amentum (Dahlgren, VA, US)
+- Entry Level Software Engineer @ Amentum (Fredericksburg, VA, US)
+- Student Worker - Center for the Application of Substance Abuse Technologies @ University of Nevada, Reno (Reno, NV, US)
+- Student Worker - Office of Information Technology Support Center @ University of Nevada, Reno (Reno, NV, US)
+- Entry Level Software Engineer @ Amentum (Fredericksburg, VA)
 
 ### Job Types
-- Full-time positions: 150
-- Internships: 135
+- Full-time positions: 152
+- Internships: 136
 
 ## Contributing
 Found a bug or want to suggest an improvement? Please open an issue or submit a pull request!
